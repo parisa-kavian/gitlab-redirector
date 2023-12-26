@@ -1,0 +1,880 @@
+recipe_id,title,ingredients
+6,پیتزا بلونز,mt-garlicpowder|mt-mincedmeat|mt-cream|mt-paprika|mt-Mahmorrah-sauce|mt-bellpepper|mt-onion|mt-mushrooms|mt-Dough
+7,پیتزا پنیر,mt-goudacheese|mt-cheese(processcheese)|mt-Dough|mt-mozzarellacheese|mt-Mahmorrah-sauce
+8,پیتزا پنیر و زعتر,mt-zaatar|mt-cheese|mt-Mahmorrah-sauce|mt-liquidoil|mt-Dough
+9,پیتزا سبزیجات,mt-Dough|mt-vegetableextract|mt-mushrooms|mt-ketchup|mt-Canned-vegetables|mt-cheese(processcheese)|mt-bellpepper
+10,پیتزا سیر و استیک,mt-salt|mt-blackpepper|mt-liquidoil|mt-mushrooms|mt-garlicpowder|mt-thyme|mt-Dough|mt-cheese(processcheese)|mt-calffillet|mt-Mahmorrah-sauce|mt-garlic
+11,پیتزا قارچ و مرغ سوخاری,mt-blackpepper|mt-Panko-Powder|mt-chickenmeat|mt-buttonmushrooms|mt-eggs|mt-bellpepper|mt-salt|mt-whiteflour|mt-paprika|mt-Dough|mt-cowmilk|mt-garlicpowder|mt-gingerpowder|mt-cheese(processcheese)|mt-liquidoil|mt-thyme
+12,پیتزا مخلوط,mt-garlic|mt-bellpepper|mt-cheese(processcheese)|mt-ham|mt-Pepper-Sauce|mt-tomatopaste|mt-sausage|mt-Dough|mt-mushrooms|mt-salt|mt-blackpepper|mt-ketchup
+13,پیتزا استافت کراست,mt-nigellasativa|mt-Dough|mt-garlic|mt-sausage|mt-ketchup|mt-goudacheese|mt-mozzarellacheese|mt-Bacon|mt-cheese(processcheese)|mt-liquidoil
+14,دسر کدو حلوایی با خامه,mt-cinnamon|mt-cream|mt-squash|mt-push|mt-saffron|mt-korea|mt-nutmeg|mt-walnut|mt-water|mt-sugarpowder
+15,رافیلو,mt-coconutpowder|mt-concentratedhoneymilk|mt-hazelnut
+16,رولت شَعریه,mt-concentratedhoneymilk|mt-push|mt-pistachio|mt-it'spoetry.|mt-korea
+17,دسر شکلات فندقی,mt-sugar|mt-cocoachocolate|mt-hazelnut|mt-cream|mt-vanilla|mt-water|mt-gelatin|mt-cowmilk
+18,فرنی معجون,mt-dates|mt-push|mt-cinnamon|mt-golab|mt-whiteflour|mt-starch|mt-cowmilk
+19,قطایف,mt-push|mt-saffron|mt-golab|mt-cream|mt-lemonjuice|mt-whiteflour|mt-sugar|mt-cornstarch|mt-cowmilk|mt-bakingsoda|mt-semolina|mt-sugar|mt-sugar|mt-cowmilk|mt-water|mt-whiteflour|mt-water|mt-salt|mt-golab|mt-liquidoil|mt-doughbread|mt-coconutpowder
+20,کرم کافی میکس,mt-instantcoffee|mt-gelatin|mt-cream|mt-sugar|mt-coffeemix|mt-cowmilk|mt-mascarponecheese|mt-water
+21,دسر کرم نارگیل,mt-coconutpowder|mt-cream|mt-gelatin|mt-water|mt-golab|mt-sugar|mt-coconutmilk
+22,کنافه,mt-sugar|mt-lemonjuice|mt-cream|mt-vanilla|mt-cowmilk|mt-golab|mt-kadayev|mt-water|mt-korea|mt-whiteflour|mt-starch|mt-saffron
+23,سالاد اسفناج گرم,mt-oliveoil|mt-spinach|mt-salt|mt-tomatoes|mt-onion|mt-garlic|mt-greenpepper|mt-blackpepper|mt-sesame
+24,سالاد آلزاس,mt-mayonnaise|mt-eggs|mt-jafari|mt-lemonjuice|mt-pickles|mt-beetu|mt-salt|mt-potato|mt-blackpepper
+25,سالاد بادمجان,mt-tomatoes|mt-redpepper|mt-lemon|mt-olive|mt-garlic|mt-onion|mt-salt|mt-eggplant|mt-spicygreenpepper
+26,سالاد تره بار پخته,mt-cauliflower|mt-beetu|mt-oliveoil|mt-wheatgerm|mt-greenbeans|mt-salt|mt-lemonjuice|mt-carrot|mt-bakingsoda|mt-blackpepper|mt-salt
+27,سالاد خیار,mt-salt|mt-greekyogurt|mt-oreganoororegano|mt-digger|mt-oliveoil|mt-greencucumber|mt-onion|mt-blackpepper|mt-garlic
+28,سالاد ژامبون,mt-celery|mt-frenchsauce|mt-eggs|mt-ham|mt-pickles|mt-scallion
+29,سالاد سیب اسفناج با انار,mt-pomegranatepaste|mt-pomegranate|mt-oliveoil|mt-spinach|mt-lemon|mt-appletree|mt-vinegar|mt-sunflowerseeds
+30,سالاد سیب خیار با ترب,mt-salt|mt-onion|mt-mustardpowder|mt-radish|mt-blackpepper|mt-appletree|mt-lemonjuice|mt-honey|mt-scallion|mt-garlic|mt-greencucumber|mt-greekyogurt|mt-digger
+31,سالاد سیب دانمارکی,mt-walnut|mt-lemon|mt-blackpepper|mt-appletree|mt-salt|mt-celery|mt-mayonnaise
+32,سالاد سیب زمینی,mt-blackpepper|mt-lemon|mt-potato|mt-oliveoil|mt-scallion|mt-salt|mt-thyme|mt-digger
+33,سالاد سیب زمینی و تخم مرغ,mt-eggs|mt-jafari|mt-mint|mt-onion|mt-greenpepper|mt-scallion|mt-lemonjuice|mt-potato|mt-blackpepper|mt-oliveoil|mt-olive|mt-digger|mt-salt
+34,سالاد سیب و کلم,mt-walnut|mt-appletree|mt-raisins|mt-vinegar|mt-mayonnaise|mt-salt|mt-redpepper|mt-mustardpowder|mt-redcabbageleaves|mt-onion
+35,سالاد عدس,mt-lentils|mt-salt|mt-tomatoes|mt-pitabread|mt-garlic|mt-scallion|mt-pomegranate|mt-jafari|mt-lemon|mt-oliveoil|mt-blackpepper
+36,سالاد قارچ,mt-vinegar|mt-broccoli|mt-oliveoil|mt-mushrooms|mt-blackpepper|mt-salt|mt-onion
+37,سالاد کارتوفل,mt-blackpepper|mt-salt|mt-potato|mt-scallion|mt-sausage|mt-lemonjuice|mt-paprika|mt-mayonnaise
+38,سالاد کلم مرصع,mt-carrot|mt-lemonjuice|mt-jafari|mt-tomatoes|mt-salt|mt-blackpepper|mt-raisins|mt-sugar|mt-kale|mt-almondslice|mt-oliveoil|mt-celery
+39,سالاد کینوا,mt-onion|mt-water|mt-garlic|mt-salt|mt-coriander|mt-redbeans|mt-oliveoil|mt-applecidervinegar|mt-blackcumin|mt-corn|mt-redpepper|mt-bellpepper|mt-quinoa
+40,سالاد گوجه فرنگی,mt-coriander|mt-blackcumin|mt-lemon|mt-salt|mt-tomatoes|mt-redpepper|mt-onion
+41,سالاد لوبیا سفید آلمان,mt-jafari|mt-lemonjuice|mt-sugar|mt-onion|mt-yogurt|mt-cream|mt-lemon|mt-whitebeans|mt-salt|mt-mustardpowder|mt-blackpepper
+42,سالاد لوبیا سفید ترکیه,mt-onion|mt-jafari|mt-bellpepper|mt-tomatoes|mt-oliveoil|mt-vinegar|mt-blackpepper|mt-whitebeans|mt-olive|mt-salt
+43,سالاد تن ماهی,mt-onion|mt-lemon|mt-cannedtuna|mt-salt|mt-blackpepper|mt-lettucescrew|mt-jafari|mt-oliveoil
+44,سالاد هویج,mt-cream|mt-blackcumin|mt-salt|mt-walnut|mt-yogurt|mt-lemon|mt-blackpepper|mt-raisins|mt-carrot
+45,لازانیا گوشت و قارچ خامه‌ای,mt-mozzarellacheese|mt-cowmilk|mt-thyme|mt-whiteflour|mt-blackpepper|mt-nutmeg|mt-thyme|mt-mushrooms|mt-korea|mt-cream|mt-garlic|mt-mincedmeat|mt-blackpepper|mt-lasagna|mt-onion|mt-salt|mt-salt
+46,آش آبغوره,mt-driedmint|mt-cowpeabeans|mt-vegetableash|mt-onion|mt-sourgrapejuice|mt-tomatoes|mt-chickenjuice|mt-blackpepper|mt-rice|mt-water|mt-salt|mt-turmeric|mt-liquidoil
+47,آش آلوچه اصفهان,mt-rice|mt-blackpepper|mt-water|mt-mutton|mt-turmeric|mt-greentomato(plum)|mt-onion|mt-digger|mt-salt|mt-liquidoil
+48,آش ترخینه ایلام,mt-vegetableash|mt-blackpepper|mt-tomatoes|mt-cowpeabeans|mt-onion|mt-water|mt-driedmint|mt-salt|mt-tarkhineh|mt-mungbean|mt-turmeric|mt-liquidoil
+49,آو تفتاله,mt-nardon|mt-turmeric|mt-whiteflour|mt-apricotleaf|mt-onion|mt-walnut|mt-salt|mt-mountaineer|mt-fig|mt-dates|mt-water|mt-raisins|mt-korea
+50,آش گندم زنجان,mt-beef|mt-driedmint|mt-vegetableash|mt-turmeric|mt-cowpeabeans|mt-pintobeans|mt-salt|mt-garlic|mt-lentils|mt-pea|mt-wheat|mt-blackpepper|mt-whitebeans|mt-mungbean|mt-liquidoil|mt-redpepper|mt-onion|mt-water
+51,آش ماست زنجان,mt-cowpeabeans|mt-mountaineer|mt-water|mt-vegetableash|mt-pen|mt-greensquash|mt-salt|mt-garlic|mt-rice|mt-mutton|mt-liquidoil|mt-driedmint|mt-purslane|mt-yogurt|mt-pintobeans|mt-onion|mt-pea|mt-lentils
+52,آش سبزی شیرازی,mt-turmeric|mt-rice|mt-pintobeans|mt-lemon|mt-blackpepper|mt-torre|mt-lentils|mt-driedtarragon|mt-liquidoil|mt-water|mt-mutton|mt-pea|mt-onion|mt-salt
+53,آش اوماج اردبیل,mt-turmeric|mt-whiteflour|mt-lentils|mt-thyme|mt-blackpepper|mt-waterpen|mt-water|mt-liquidoil|mt-salt|mt-onion
+54,آوتُخ شوید (آب تخم شوید),mt-water|mt-salt|mt-dillseed|mt-eggs|mt-turmeric|mt-thyme|mt-liquidoil|mt-whiteflour
+55,او قارچ,mt-turmeric|mt-apricotleaf|mt-water|mt-dates|mt-mushrooms|mt-whiteflour|mt-mountaineer|mt-salt|mt-nardon|mt-liquidoil
+56,ماست جوش,mt-onion|mt-salt|mt-driedmint|mt-eggs|mt-liquidoil|mt-whey|mt-turmeric|mt-blackpepper|mt-water|mt-sesame|mt-tomatoes|mt-oreganoororegano|mt-walnut|mt-yogurt
+57,او انگیون,mt-onion|mt-whiteflour|mt-salt|mt-Dry-Angdan|mt-water|mt-sourgrapejuice|mt-liquidoil
+58,او گوجه,mt-mountaingarlic|mt-liquidoil|mt-mountaineer|mt-water|mt-blackpepper|mt-salt|mt-tomatoes
+59,اشکنه یزدی,mt-eggs|mt-potato|mt-water|mt-onion|mt-marjoram|mt-turmeric|mt-whiteflour|mt-blackpepper|mt-salt|mt-liquidoil
+114,تلیت او گوجه باذمجو,mt-liquidoil|mt-blackpepper|mt-eggplant|mt-onion|mt-water|mt-nardon|mt-driedmint|mt-salt|mt-tomatoes
+115,اشکنه قزوین,mt-water|mt-blackpepper|mt-potato|mt-onion|mt-tomatoes|mt-turmeric|mt-liquidoil|mt-driedfenugreek|mt-eggs|mt-salt
+116,بورانی شنگ,mt-onion|mt-water|mt-sheng|mt-salt|mt-eggs|mt-cotyledons|mt-gravy.|mt-liquidoil|mt-rice|mt-blackpepper
+117,بورانی هویج آذربایجان غربی,mt-carrot|mt-salt|mt-water|mt-driedmint|mt-tomatopaste|mt-cinnamon|mt-onion|mt-driedparsley|mt-saffron|mt-rice|mt-cotyledons|mt-liquidoil
+118,کله جوش,mt-water|mt-onion|mt-salt|mt-driedmint|mt-blackpepper|mt-walnut|mt-whey|mt-liquidoil|mt-saffron
+119,یتیمچه,mt-liquidoil|mt-water|mt-blackpepper|mt-onion|mt-salt|mt-turmeric|mt-tomatoes|mt-eggplant
+120,خرما پلو,mt-onion|mt-blackpepper|mt-pistachioslice|mt-chickenbreastmeat|mt-rice|mt-saffron|mt-dates|mt-turmeric|mt-barberry|mt-salt|mt-almondslice|mt-water|mt-liquidoil|mt-raisins
+121,چیغیرتما,mt-tomatoes|mt-salt|mt-water|mt-chickenbreastmeat|mt-blackpepper|mt-potato|mt-liquidoil|mt-onion|mt-eggs|mt-turmeric
+122,چورک قاتق,mt-yogurt|mt-eggs|mt-whiteflour|mt-water|mt-driedmint|mt-onion|mt-blackpepper|mt-salt|mt-garlic|mt-korea|mt-turmeric
+123,قیسی پلو,mt-qiesi|mt-walnut|mt-water|mt-salt|mt-sugar|mt-cinnamon|mt-cowmilk|mt-korea|mt-rice
+124,کشمش پلو اردبیل,mt-cowmilk|mt-salt|mt-walnut|mt-sugar|mt-water|mt-rice|mt-cinnamon|mt-raisins|mt-korea
+125,اشکنه زردآلو,mt-turmeric|mt-liquidoil|mt-pea|mt-onion|mt-apricotleaf|mt-blackpepper|mt-tomatoes|mt-water|mt-whiteflour|mt-salt
+126,لپه برنج,mt-liquidoil|mt-cotyledons|mt-blackpepper|mt-rice|mt-water|mt-onion|mt-chickenmeat|mt-salt
+127,شیرین پلو,mt-salt|mt-beef|mt-apricotleaf|mt-turmeric|mt-rice|mt-water|mt-carrot|mt-blackpepper|mt-onion|mt-liquidoil|mt-lavashbread
+128,رشته پلو قیسی,mt-ploystring|mt-water|mt-rice|mt-korea|mt-saffron|mt-qiesi|mt-liquidoil|mt-onion
+129,سوغان سو,mt-water|mt-salt|mt-blackpepper|mt-onion|mt-liquidoil|mt-driedmint|mt-potato|mt-korea
+130,پل سر باقالی,mt-liquidoil|mt-garlic|mt-turmeric|mt-water|mt-eggs|mt-tomatopaste|mt-salt|mt-bean
+131,توله پلو,mt-sourorangejuice|mt-water|mt-onion|mt-turmeric|mt-liquidoil|mt-salt|mt-garlic|mt-rice|mt-Cub-Sabzi|mt-blackpepper
+132,آبگوشت زابلی,mt-pea|mt-tomatopaste|mt-liquidoil|mt-Spice-Wrench|mt-beef|mt-water|mt-onion|mt-turmeric|mt-salt
+133,اشکنه شوتک,mt-water|mt-salt|mt-eggs|mt-dillseed|mt-liquidoil|mt-turmeric
+134,اشکنه کِشته,mt-turmeric|mt-water|mt-apricotleaf|mt-onion|mt-liquidoil|mt-salt
+135,اشکنه آرد دستمال,mt-whiteflour|mt-water|mt-liquidoil|mt-turmeric|mt-onion|mt-blackpepper|mt-salt
+136,اشکنه انار,mt-onion|mt-turmeric|mt-water|mt-pomegranatejuice|mt-liquidoil|mt-driedfenugreek|mt-blackpepper|mt-eggs|mt-salt
+137,اشکنه انار ترش,mt-salt|mt-onion|mt-water|mt-whiteflour|mt-blackpepper|mt-liquidoil|mt-salt|mt-turmeric|mt-pomegranatejuice
+138,ونوشک پلو,mt-onion|mt-mincedmeat|mt-liquidoil|mt-rice|mt-water|mt-blackpepper|mt-saffron|mt-salt|mt-turmeric|mt-Venushak|mt-tomatopaste
+139,دمی شیر,mt-dates|mt-korea|mt-rice|mt-liquidoil|mt-salt|mt-cowmilk
+140,پلو ماش,mt-rice|mt-onion|mt-raisins|mt-water|mt-liquidoil|mt-dates|mt-mungbean|mt-korea
+141,آش ارده,mt-ardeh|mt-mungbean|mt-datesyrup|mt-rice|mt-water
+142,اشکنه بادمجان,mt-salt|mt-Paste-of-Plum|mt-eggplant|mt-tomatoes|mt-potato|mt-liquidoil|mt-blackpepper|mt-garlic|mt-water|mt-turmeric|mt-onion|mt-driedmint
+143,آش ترش مازندران,mt-pintobeans|mt-garlic|mt-redbeetroot|mt-redpepper|mt-Special-Vegetables|mt-Paste-of-Plum|mt-salt|mt-Choobuch-Sabzi|mt-greensquash|mt-tomatopaste|mt-turmeric|mt-stringash|mt-pea|mt-liquidoil|mt-lentils|mt-potato|mt-water
+144,تَرَکی,mt-cinnamon|mt-liquidoil|mt-water|mt-Anise-Powder|mt-whiteflour|mt-sugarpowder
+145,آش قورود قیله,mt-cowpeabeans|mt-vegetableash|mt-garlic|mt-whey|mt-eggplant|mt-turmeric|mt-spicygreenpepper|mt-mutton|mt-salt|mt-wheatbulgur|mt-onion|mt-gravy.|mt-rice|mt-greenbeans|mt-tomatoes|mt-blackpepper|mt-water|mt-liquidoil
+146,آش رشته خراسان جنوبی,mt-localplantspounded|mt-lentils|mt-whey|mt-garlic|mt-vegetableash|mt-driedmint|mt-liquidoil|mt-mungbean|mt-onion|mt-boiledlocalplants|mt-potato|mt-pea|mt-stringash|mt-water
+147,آش دِنورو,mt-lentils|mt-pea|mt-redbeans|mt-salt|mt-water|mt-wheat|mt-yellowbakala
+148,آش دُنگو,mt-whitebeans|mt-waterpen|mt-lentils|mt-salt|mt-wheat|mt-pea|mt-water|mt-turmeric
+149,آش تَپیله,mt-salt|mt-turmeric|mt-water|mt-pea|mt-onion|mt-blackpepper|mt-wheat|mt-driedmint|mt-pintobeans|mt-liquidoil
+150,شَنگ سرخ شده,mt-qaraqrut|mt-turmeric|mt-onion|mt-sheng|mt-salt|mt-liquidoil|mt-water
+151,کوفته قلقلی ساده,mt-onion|mt-salt|mt-mincedmeat|mt-driedmint|mt-liquidoil
+152,کوفته قلقلی سرآشپز,mt-liquidoil|mt-turmeric|mt-mincedmeat|mt-driedmint|mt-chickpeaflour|mt-onion|mt-blackpepper|mt-salt
+153,پیاز داغ,mt-liquidoil|mt-onion|mt-salt|mt-water|mt-turmeric
+154,طرز پخت گوشت,mt-water|mt-salt|mt-blackpepper|mt-cinnamon|mt-beef|mt-turmeric|mt-smellleaf|mt-onion|mt-push
+155,طرز تهیه آب قلم,mt-carrot|mt-water|mt-cinnamon|mt-salt|mt-celery|mt-smellleaf|mt-onion|mt-garlic|mt-pen|mt-blackpepper
+156,خمیر پیتزا (ضخیم),mt-doughbread|mt-salt|mt-cowmilk|mt-whiteflour|mt-liquidoil|mt-eggs|mt-sugar
+157,کوفته قلقلی (پیشنهاد سرآشپز),mt-driedmint|mt-liquidoil|mt-blackpepper|mt-chickpeaflour|mt-onion|mt-turmeric|mt-salt|mt-mincedmeat
+158,بورانی پاغازه,mt-garlic|mt-Herbal-Flowers|mt-salt|mt-yogurt|mt-onion|mt-turmeric|mt-blackpepper|mt-eggs|mt-water|mt-liquidoil
+159,بورانی کنگر کرمانشاه,mt-eggs|mt-liquidoil|mt-blackpepper|mt-artichoke|mt-onion|mt-water|mt-salt|mt-yogurt
+160,املت گوجه فرنگی,mt-eggs|mt-blackpepper|mt-salt|mt-tomatoes|mt-liquidoil
+161,سوسیس تخم مرغ,mt-thyme|mt-blackpepper|mt-liquidoil|mt-sausage|mt-salt|mt-eggs
+162,سیب و موز عسلی,mt-appletree|mt-almondslice|mt-sesame|mt-banana|mt-cowmilk|mt-walnut|mt-honey
+163,موز خامه ای,mt-korea|mt-raisins|mt-honey|mt-walnut|mt-dates|mt-cream|mt-banana
+164,محلبی,mt-cream|mt-sugar|mt-cowmilk|mt-cornstarch
+165,محلبی گلاب,mt-golab|mt-cowmilk|mt-sugar|mt-cornstarch|mt-cream
+166,محلبی بهارنارنج,mt-cream|mt-cornstarch|mt-sugar|mt-cowmilk
+167,تخم مرغ با عسل,mt-blackpepper|mt-salt|mt-korea|mt-cinnamon|mt-honey|mt-eggs
+168,نیمرو عسلی,mt-blackpepper|mt-korea|mt-eggs|mt-salt
+169,فرنی,mt-riceflour|mt-cowmilk|mt-sugar|mt-cream
+170,فرنی زعفران,mt-sugar|mt-riceflour|mt-cowmilk|mt-saffron|mt-cream
+171,املت خرما و کنجد,mt-salt|mt-coconutpowder|mt-dates|mt-cocoapowder|mt-honey|mt-sesame|mt-korea
+172,اوتمیل شکلاتی دارچینی,mt-cocoapowder|mt-Peanut-butter|mt-cowmilk|mt-cinnamon|mt-honey|mt-oatsflask
+173,صبحانه انگلیسی,mt-pintobeans|mt-tomatopaste|mt-eggs|mt-turmeric|mt-onion|mt-mushrooms|mt-korea|mt-meatextract|mt-water|mt-sausage|mt-salt|mt-liquidoil|mt-blackpepper
+174,املت فرانسوی,mt-potato|mt-eggs|mt-blackpepper|mt-jafari|mt-turmeric|mt-onion|mt-mozzarellacheese|mt-thyme|mt-salt
+175,خاگینه تخم مرغ,mt-whiteflour|mt-eggs|mt-bakingpowder|mt-blackpepper|mt-liquidoil|mt-salt
+176,اسکرامبل اگ,mt-korea|mt-bakingpowder|mt-cowmilk|mt-eggs|mt-salt
+177,املت گوجه فرنگی و فلفل دلمه‌ای,mt-onion|mt-salt|mt-blackpepper|mt-tomatopaste|mt-greenbellpepper|mt-turmeric|mt-tomatoes|mt-liquidoil|mt-eggs
+178,رولت فندق و موز,mt-eggs|mt-hazelnut|mt-cocoachocolate|mt-banana|mt-salt|mt-liquidoil|mt-korea
+179,املت پیتزایی,mt-liquidoil|mt-blackpepper|mt-corn|mt-salt|mt-cowmilk|mt-bellpepper|mt-bellpepper|mt-lemon|mt-eggs|mt-mozzarellacheese|mt-korea|mt-onion
+180,خاگینه مربا,mt-salt|mt-eggs|mt-whiteflour|mt-cinnamon|mt-Jam|mt-almondslice|mt-liquidoil
+181,املت قارچ,mt-cowmilk|mt-salt|mt-mushrooms|mt-greenpepper|mt-blackpepper|mt-korea|mt-eggs
+182,املت سوسیس و ذرت,mt-sausage|mt-greenpepper|mt-blackpepper|mt-cowmilk|mt-liquidoil|mt-corn|mt-eggs|mt-korea|mt-salt
+183,املت سوسیس و سیب زمینی,mt-eggs|mt-onion|mt-sausage|mt-liquidoil|mt-salt|mt-turmeric|mt-blackpepper|mt-potato
+184,سالاد میوه خامه ای,mt-appletree|mt-grape|mt-hazelnut|mt-cream|mt-Pineapple-juice|mt-pear|mt-pistachioslice|mt-almondslice|mt-honey|mt-pineapple
+185,گل کلم پفی,mt-eggs|mt-vinegar|mt-whiteflour|mt-water|mt-cauliflower|mt-cowmilk|mt-salt|mt-liquidoil
+186,دمنوش بادرنجبویه,mt-water|mt-Lemon-Balm
+187,دمنوش سنبل الطیب,mt-Valerian|mt-omanilemon(amani)|mt-water|mt-blacktea
+188,دمنوش گل گاوزبان,mt-Borage|mt-water
+189,دمنوش بابونه و بهارنارنج,mt-honey|mt-Orange-Spring|mt-Chamomile|mt-water
+190,دمنوش زرشک و عناب,mt-barberry|mt-Jujube|mt-corianderseeds|mt-water
+191,دمنوش به لیمو,mt-water|mt-Lime
+192,دمنوش آویشن,mt-water|mt-thyme
+193,دمنوش بارهنگ,mt-Rum|mt-Barhang|mt-honey|mt-water
+194,دمنوش زعفران با هل و دارچین,mt-water|mt-push|mt-saffron|mt-cinnamon
+195,دمنوش به,mt-Dry|mt-water
+196,دمنوش سیب و دارچین,mt-water|mt-Dry
+197,دمنوش عناب,mt-water|mt-Jujube
+198,دمنوش زنجبیل,mt-water|mt-freshginger
+199,دمنوش انار,mt-cinnamon|mt-angelica|mt-pomegranate|mt-water
+200,چای روسی,mt-blacktea|mt-lemon|mt-honey|mt-water
+201,چای یوگسلاوی,mt-lemonjuice|mt-blacktea|mt-honey|mt-water
+202,چای ترش,mt-Sour-Tea|mt-water
+203,چای دو رنگ,mt-sugar|mt-blacktea|mt-water
+204,چای رومی,mt-cinnamon|mt-water|mt-lemonjuice|mt-sugar|mt-blacktea
+205,چای آرامش بخش,mt-golab|mt-honey|mt-flowerblossom|mt-blacktea|mt-water
+206,شیر و زعفران,mt-cowmilk|mt-saffron|mt-cream|mt-push|mt-sugar
+207,چای با لیمو عمانی,mt-omanilemon(amani)|mt-water|mt-blacktea
+208,چای سبز,mt-water|mt-Green-Tea
+209,چای مراکشی,mt-water|mt-sugar|mt-mint|mt-blacktea
+210,چای با ادویه,mt-nutmeg|mt-cinnamon|mt-water|mt-cowmilk|mt-clove|mt-push|mt-mint|mt-blacktea|mt-fennel|mt-sugar
+211,هات چاکلت,mt-cornstarch|mt-cowmilk|mt-cocoachocolate|mt-cowmilk
+212,چای گرام ماسالا,mt-blackpepper|mt-nutmeg|mt-sugar|mt-cinnamon|mt-push|mt-blacktea|mt-cowmilk|mt-gingerpowder
+213,چای سیاه,mt-blacktea|mt-water
+214,چای کاراملی,mt-push|mt-blacktea|mt-cinnamon|mt-cowmilk|mt-sugar|mt-water
+215,چای هلو,mt-water|mt-Peach-Leaf|mt-honey|mt-blacktea
+216,چای عراقی,mt-water|mt-push|mt-blacktea|mt-saffron|mt-sugar
+217,چای با شکلات,mt-blacktea|mt-cinnamon|mt-cocoachocolate|mt-water
+218,شیر با کره بادام زمینی,mt-Chocolate-Breakfast|mt-cowmilk|mt-Peanut-butter
+219,شیر بادام,mt-almond|mt-water
+220,کاناپ قارچ,mt-toast|mt-mushrooms|mt-korea|mt-cheese(creamcheese)|mt-sesame
+221,گرانولا,mt-liquidoil|mt-raisins|mt-almondslice|mt-sunflowerseeds|mt-joeperk|mt-nutmeg|mt-vanilla|mt-honey|mt-sesame
+222,گرانولا با شیر,mt-nutmeg|mt-cowmilk|mt-raisins|mt-almondslice|mt-sunflowerseeds|mt-liquidoil|mt-sesame|mt-joeperk
+223,گرانولا با بستنی و میوه و شکلات,mt-joeperk|mt-liquidoil|mt-sunflowerseeds|mt-Chocolate-Sauce|mt-icecream|mt-almondslice|mt-sesame|mt-nutmeg|mt-raisins|mt-pineapple
+224,دوغ خیار,mt-drieddill|mt-salt|mt-blackpepper|mt-driedmint|mt-greencucumber|mt-yogurt|mt-water
+225,سبزیجات خامه ای,mt-blackpepper|mt-liquidoil|mt-tomatopaste|mt-bellpepper|mt-salt|mt-onion|mt-cheese(creamcheese)|mt-tomatoes|mt-blackcumin
+226,توپک پنیری با خشکبار,mt-sesame|mt-raisins|mt-liquidoil|mt-cheese|mt-driedmint|mt-oatsflask|mt-walnut
+227,نرگسی اسفناج,mt-spinach|mt-garlic|mt-turmeric|mt-eggs|mt-salt|mt-blackpepper|mt-onion
+228,سمبوسه گوشت,mt-blackpepper|mt-tomatopaste|mt-bellpepper|mt-liquidoil|mt-mincedmeat|mt-lavashbread|mt-goudacheese|mt-turmeric|mt-salt|mt-onion
+229,توپک پنیر زیتونی,mt-oliveoil|mt-cheese|mt-nigellasativa|mt-sesame|mt-zaatar
+230,توپک پنیر و گردو و نعنا,mt-korea|mt-cheese|mt-sesame|mt-driedmint|mt-walnut
+231,تست موز با کره بادام زمینی,mt-pistachio|mt-Peanut-butter|mt-toast|mt-banana
+232,ساندویچ خرما و گردو,mt-cowmilk|mt-sesame|mt-push|mt-dates|mt-cinnamon|mt-gingerpowder|mt-almondslice|mt-korea|mt-toast|mt-walnut|mt-pistachioslice
+233,ساندویچ تن ماهی,mt-toast|mt-lemonjuice|mt-salt|mt-cannedtuna|mt-mayonnaise|mt-onion|mt-blackpepper|mt-water|mt-greenpepper
+234,کلاب سبزیجات,mt-celery|mt-blackpepper|mt-greencucumber|mt-jafari|mt-toast|mt-carrot|mt-cheese(creamcheese)|mt-salt|mt-walnut
+235,ساندویچ مرغ و جعفری,mt-mayonnaise|mt-toast|mt-salt|mt-onion|mt-blackpepper|mt-lemonjuice|mt-turmeric|mt-chickenbreastmeat|mt-jafari|mt-smellleaf|mt-rosemary|mt-corn|mt-water
+236,همبرگر ساده,mt-breadcrumbpowder|mt-pickles|mt-Hamburger-Bread|mt-salt|mt-mincedmeat|mt-lettuce|mt-tomatoes|mt-blackpepper|mt-liquidoil|mt-onion|mt-mustardsauce
+237,همبرگر قارچ و پنیر,mt-salt|mt-onion|mt-blackpepper|mt-mustardsauce|mt-korea|mt-mushrooms|mt-breadcrumbpowder|mt-liquidoil|mt-mincedmeat|mt-mozzarellacheese|mt-Hamburger-Bread
+238,نیمرو برگر,mt-pickles|mt-breadcrumbpowder|mt-salt|mt-tomatoes|mt-liquidoil|mt-mustardsauce|mt-mincedmeat|mt-eggs|mt-onion|mt-lettuce|mt-Hamburger-Bread|mt-blackpepper
+239,چیز برگر,mt-Hamburger-Bread|mt-blackpepper|mt-tomatoes|mt-cheddarcheese|mt-breadcrumbpowder|mt-mustardsauce|mt-salt|mt-lettuce|mt-liquidoil|mt-pickles|mt-onion|mt-mincedmeat
+240,ساندویچ مرغ گریل,mt-chickenbreastmeat|mt-blackpepper|mt-paprika|mt-onionpowder|mt-mustardsauce|mt-garlicpowder|mt-salt|mt-barbecuesauce|mt-lemonjuice|mt-thyme|mt-liquidoil
+241,هویج و کشمش,mt-hazelnut|mt-gingerpowder|mt-carrot|mt-lemonjuice|mt-korea|mt-honey|mt-cinnamon|mt-sugar|mt-raisins
+242,دمنوش مریم گلی,mt-water|mt-Salvia
+243,دمنوش ترخون,mt-tarragon|mt-water
+244,دمنوش رزماری,mt-water|mt-rosemary
+245,دمنوش گل بنفشه,mt-water|mt-Violet-Flowers
+246,دمنوش شوید,mt-dillseed|mt-water
+247,دمنوش گل زوفا,mt-water|mt-Hyssop
+248,دمنوش گل همیشه بهار,mt-Calendula|mt-water
+249,دمنوش اسطوخودوس,mt-water|mt-Lavender
+250,دمنوش زیره سیاه,mt-blackcumin|mt-water
+251,دمنوش نعنا,mt-mint|mt-water
+252,دمنوش مرزنجوش,mt-marjoram|mt-water
+253,دمنوش زیره سبز,mt-water|mt-cumin
+254,دمنوش میخک,mt-clove|mt-water
+255,دمنوش برگ بو,mt-water|mt-smellleaf
+256,دمنوش پونه کوهی,mt-oreganoororegano|mt-water
+257,دمنوش فراسیون,mt-Frasion|mt-water
+258,دمنوش رازیانه,mt-water|mt-fennel
+259,دمنوش زرشک,mt-barberry|mt-water
+260,دمنوش نعناع و دارچین,mt-water|mt-cinnamon|mt-mint
+261,املت کالباس,mt-blackpepper|mt-cowmilk|mt-Sausages|mt-eggs|mt-salt
+262,تست پنیر و گوجه,mt-blackpepper|mt-garlic|mt-korea|mt-toast|mt-tomatoes|mt-thyme|mt-jafari|mt-salt|mt-cheese
+263,املت گل کلم,mt-whiteflour|mt-blackpepper|mt-cauliflower|mt-onion|mt-salt|mt-water|mt-cowmilk|mt-liquidoil|mt-eggs
+264,پوره میوه,mt-cowmilk|mt-raisins|mt-appletree|mt-banana
+265,دسر سوهان,mt-Animal-Oil|mt-golab|mt-whiteflour|mt-saffron|mt-korea|mt-push|mt-Wheat-germ-flour|mt-eggs|mt-sugar|mt-water
+266,صبحانه پادشاه,mt-blackpepper|mt-onionpowder|mt-liquidoil|mt-garlicpowder|mt-salt|mt-korea|mt-eggs|mt-tomatopaste|mt-tomatoes
+267,املت صیفی جات,mt-onion|mt-salt|mt-eggplant|mt-liquidoil|mt-bellpepper|mt-blackpepper|mt-tomatoes|mt-eggs|mt-turmeric
+268,ساندویچ تخم مرغ با سس,mt-blackpepper|mt-toast|mt-onion|mt-water|mt-jafari|mt-salt|mt-eggs|mt-greenpepper|mt-ketchup|mt-mayonnaise
+269,اردو پنیر و گردو,mt-walnut|mt-mozzarellacheese|mt-blackpepper|mt-salt|mt-jafari|mt-eggs|mt-liquidoil
+270,سیب خامه ای,mt-sugar|mt-cocoapowder|mt-mascarponecheese|mt-water|mt-sugarpowder|mt-appletree|mt-cream
+271,املت قیسی,mt-korea|mt-qiesi|mt-eggs|mt-salt|mt-cowmilk|mt-cinnamon|mt-grapejuice|mt-sesame
+272,ساندویچ تخم مرغ,mt-blackpepper|mt-Hamburger-Bread|mt-jafari|mt-tomatoes|mt-korea|mt-eggs|mt-salt
+273,اردو با تن ماهی,mt-mayonnaise|mt-blackpepper|mt-eggs|mt-cannedtuna|mt-lemonjuice|mt-salt|mt-aromaticherbs
+274,خاگینه پیاز و سبزی,mt-greenbellpepper|mt-cowmilk|mt-turmeric|mt-liquidoil|mt-aromaticherbs|mt-salt|mt-whiteflour|mt-blackpepper|mt-eggs|mt-scallion|mt-onion
+275,خاگینه شیره,mt-grapejuice|mt-liquidoil|mt-eggs|mt-blackpepper|mt-whiteflour|mt-salt
+276,رولت خرما و تخم مرغ,mt-blackpepper|mt-walnut|mt-liquidoil|mt-salt|mt-dates|mt-eggs
+277,رولت مغز,mt-turmeric|mt-eggs|mt-whiteflour|mt-korea|mt-liquidoil|mt-water|mt-cowmilk|mt-salt|mt-Sheep-Brain|mt-vinegar|mt-onion|mt-blackpepper
+278,املت میگو,mt-blackpepper|mt-shrimp|mt-onion|mt-turmeric|mt-salt|mt-liquidoil|mt-eggs
+279,رولت تخم مرغ و گوشت,mt-turmeric|mt-whiteflour|mt-eggs|mt-onion|mt-salt|mt-mincedmeat|mt-blackpepper|mt-tomatopaste|mt-liquidoil
+280,دسر ورمیشل,mt-cream|mt-sugar|mt-korea|mt-almondslice|mt-coconutpowder|mt-push|mt-vermicelli|mt-raisins|mt-cowmilk
+281,کاچی,mt-sugar|mt-saffron|mt-grapejuice|mt-water|mt-push|mt-cinnamon|mt-walnut|mt-korea|mt-whiteflour|mt-almondslice|mt-golab
+282,املت هویج,mt-liquidoil|mt-eggs|mt-carrot|mt-water|mt-push|mt-sugar|mt-almondslice|mt-whiteflour|mt-pineapple|mt-salt|mt-cowmilk|mt-blackpepper|mt-saffron|mt-cinnamon
+283,دسر کدو حلوایی,mt-golab|mt-icecream|mt-push|mt-squash|mt-sugar|mt-walnut|mt-grapejuice|mt-saffron|mt-korea|mt-water|mt-cinnamon
+284,املت شکر,mt-blackpepper|mt-eggs|mt-liquidoil|mt-whiteflour|mt-cowmilk|mt-sugar|mt-salt
+285,لبو عسلی,mt-water|mt-Candy|mt-redbeetroot
+286,دسر کاسترد,mt-Custard|mt-golab|mt-sugar|mt-cowmilk
+287,املت کلم سفید,mt-onion|mt-salt|mt-eggs|mt-turmeric|mt-blackpepper|mt-liquidoil|mt-mozzarellacheese|mt-whitecabbage
+288,گوجه بادمجان,mt-water|mt-tomatopaste|mt-eggplant|mt-salt|mt-blackpepper|mt-sourgrapejuice|mt-tomatoes|mt-turmeric|mt-liquidoil
+289,بلال مکزیکی,mt-sugar|mt-salt|mt-blackpepper|mt-parmesancheese|mt-korea|mt-cowmilk|mt-water|mt-mustardsauce|mt-Bilal|mt-paprika|mt-thyme
+290,وافل,mt-whiteflour|mt-bakingpowder|mt-sugar|mt-eggs|mt-liquidoil|mt-vanilla|mt-salt|mt-cowmilk
+291,اسنک اسفناج و پنیر,mt-salt|mt-blackpepper|mt-spinach|mt-toast|mt-mozzarellacheese
+292,حلیم جو,mt-sugar|mt-oatsflask|mt-cinnamon|mt-salt|mt-water|mt-korea
+293,املت کدو سبز,mt-salt|mt-liquidoil|mt-eggs|mt-greensquash|mt-blackpepper
+294,سالاد فصل,mt-salt|mt-greencucumber|mt-blackpepper|mt-redcabbageleaves|mt-lettuce|mt-lemonjuice|mt-mayonnaise|mt-carrot|mt-tomatoes|mt-whitecabbage
+295,گل کلم سوخاری,mt-breadcrumbflour|mt-vinegar|mt-fryingoil|mt-cauliflower|mt-whiteflour|mt-eggs|mt-cowmilk|mt-salt|mt-water
+296,نان و پنیر و گردو,mt-cheese|mt-walnut|mt-typesofbread
+297,نان و پنیر و حلوا ارده,mt-typesofbread|mt-Halva-Ardeh|mt-cheese
+298,نان و پنیر و سبزی,mt-cheese|mt-Vegetable-eating|mt-typesofbread
+299,نان و پنیر و مربا,mt-Jam|mt-cheese|mt-typesofbread
+300,نان و حلوا ارده و عسل,mt-Halva-Ardeh|mt-honey|mt-typesofbread
+301,نان و کره و مربا,mt-Jam|mt-typesofbread|mt-korea
+302,نان و پنیر و خرما,mt-typesofbread|mt-cheese|mt-dates
+303,خمیر پیتزا (نازک),mt-salt|mt-Corn-Flour|mt-liquidoil|mt-whiteflour|mt-water|mt-doughbread|mt-cornstarch|mt-sugar
+304,سالاد هویج و زیتون,mt-redpepper|mt-pomegranatepaste|mt-carrot|mt-olive|mt-walnut|mt-oliveoil|mt-ketchup|mt-savory
+305,سالاد شیرازی,mt-driedmint|mt-sourgrapejuice|mt-tomatoes|mt-greencucumber|mt-salt|mt-onion
+306,شنیتسل ماهی,mt-breadcrumbflour|mt-jafari|mt-blackpepper|mt-mayonnaise|mt-pickles|mt-blackpepper|mt-lemonjuice|mt-onion|mt-mustardsauce|mt-whiteflour|mt-eggs|mt-fishfillet|mt-blackpepper|mt-salt|mt-salt|mt-liquidoil|mt-cowmilk
+307,ماهی قزل آلا با زعفران,mt-korea|mt-salt|mt-sugar|mt-salmon|mt-blackpepper|mt-yogurt|mt-onion|mt-cream|mt-grapevinegar|mt-saffron|mt-digger|mt-turmeric
+308,ماهی کاری,mt-blackcumin|mt-cinnamon|mt-onion|mt-salt|mt-coriander|mt-redpepper|mt-fishfillet|mt-push|mt-mustardpowder|mt-yogurt|mt-garlic|mt-blackpepper|mt-tomatoes|mt-salt|mt-water|mt-clove|mt-turmeric|mt-liquidoil
+309,گولاش ماهی,mt-salt|mt-salt|mt-fishfillet|mt-tomatopaste|mt-onion|mt-blackpepper|mt-liquidoil|mt-water|mt-paprika|mt-blackpepper
+310,ماهی استراگانف,mt-onion|mt-salt|mt-fishfillet|mt-blackpepper|mt-mustardpowder|mt-liquidoil|mt-thyme|mt-mushrooms|mt-jafari|mt-cream|mt-yogurtabstract
+311,ماهی با نارنج و گلپر,mt-fishfillet|mt-blackpepper|mt-korea|mt-angelica|mt-salt|mt-sourorangejuice
+312,ماهی با قارچ,mt-bellpepper|mt-korea|mt-sugar|mt-blackpepper|mt-grapevinegar|mt-salt|mt-salmon|mt-onion|mt-mushrooms|mt-lemon
+313,ماهی موپلاه,mt-turmeric|mt-corianderseeds|mt-tomatoes|mt-greenpepper|mt-liquidoil|mt-onion|mt-coriander|mt-grahammasala|mt-salt|mt-freshginger|mt-garlic|mt-fishfillet|mt-tomatopaste|mt-blackpepper|mt-water
+314,ماهی با سس ارده,mt-salt|mt-liquidoil|mt-digger|mt-lemonjuice|mt-fishfillet|mt-garlic|mt-redpepper|mt-onion|mt-ardeh
+315,ماهی در شیر,mt-salt|mt-blackpepper|mt-korea|mt-fishfillet|mt-breadcrumbflour|mt-cowmilk
+316,ماهی با لیمو و خامه,mt-fishfillet|mt-lemonjuice|mt-cream|mt-salt|mt-whiteflour|mt-liquidoil|mt-blackpepper
+317,ماهی سیر داغ,mt-water|mt-fishfillet|mt-garlic|mt-whiteflour|mt-sourorangejuice|mt-liquidoil|mt-blackpepper|mt-turmeric|mt-salt
+318,میگو سرخ کرده با سس چیلی,mt-salt|mt-water|mt-breadcrumbflour|mt-onion|mt-liquidoil|mt-salt|mt-liquidoil|mt-shrimp|mt-tomatopaste|mt-garlic|mt-redpepper|mt-almond|mt-blackpepper
+319,میگو سرخ کرده پفکی,mt-almond|mt-yogurt|mt-lemonjuice|mt-redpepper|mt-breadcrumbflour|mt-liquidoil|mt-onion|mt-tomatopaste|mt-blackpepper|mt-salt|mt-liquidoil|mt-turmeric|mt-water|mt-shrimp|mt-garlic|mt-onion|mt-salt|mt-whiteflour
+320,ماهی شکم پر مازندران,mt-blackpepper|mt-walnut|mt-onion|mt-angelica|mt-salt|mt-pomegranatepaste|mt-Special-Vegetables
+321,خوراک مرغ زعفرانی,mt-chickenmeat|mt-liquidoil|mt-push|mt-salt|mt-onion|mt-smellleaf|mt-turmeric|mt-blackpepper|mt-saffron|mt-cinnamon
+322,خوراک مرغ لقمه‌ای زعفرانی,mt-liquidoil|mt-turmeric|mt-saffron|mt-push|mt-salt|mt-onion|mt-blackpepper|mt-chickenbreastmeat
+323,خوراک مرغ و سویا سس,mt-garlicpowder|mt-onion|mt-blackpepper|mt-liquidoil|mt-chickenbreastmeat|mt-soysauce|mt-jafari|mt-salt|mt-lemon
+324,خوراک مرغ و صیفی جات,mt-thyme|mt-chickenmeat|mt-salt|mt-blackpepper|mt-carrot|mt-jafari|mt-cream|mt-mushrooms|mt-tarragon|mt-corn|mt-greensquash|mt-garlic|mt-liquidoil|mt-celery|mt-onion
+325,خوراک مرغ با پیاز و قارچ,mt-lemon|mt-eggs|mt-clove|mt-onion|mt-garlic|mt-jafari|mt-blackpepper|mt-chickenmeat|mt-whiteflour|mt-cream|mt-mushrooms|mt-cinnamon|mt-salt|mt-liquidoil|mt-nutmeg
+326,خوراک مرغ و سیب,mt-chickenmeat|mt-sugar|mt-chickenextract|mt-cinnamon|mt-appletree|mt-korea|mt-water|mt-blackpepper|mt-whiteflour|mt-onion|mt-salt
+327,خوراک مرغ با پوره پیاز,mt-cowmilk|mt-celery|mt-onion|mt-korea|mt-salt|mt-smellleaf|mt-carrot|mt-chickenbreastmeat|mt-water|mt-liquidoil|mt-jafari|mt-whiteflour|mt-leeks|mt-mint|mt-blackpepper|mt-onion|mt-salt
+328,ترش کباب,mt-tomatoes|mt-salt|mt-chickenbreastmeat|mt-sourgrapejuice|mt-turmeric|mt-onion|mt-blackpepper|mt-water|mt-tomatopaste|mt-liquidoil|mt-potato|mt-eggplant
+329,مرغ لَوَنگی,mt-turmeric|mt-walnut|mt-blackpepper|mt-onion|mt-liquidoil|mt-chickenmeat|mt-water|mt-salt|mt-Paste-of-Plum|mt-tomatoes|mt-cinnamon|mt-sourgrapejuice
+330,شورب یا شوربا,mt-salt|mt-blackpepper|mt-tandoorispice|mt-onion|mt-liquidoil|mt-turmeric|mt-water|mt-whiteflour|mt-chickenmeat
+331,مرغ و سیب زمینی با سس کره و سیر,mt-potato|mt-greenpepper|mt-chickenbreastmeat|mt-garlic|mt-basil|mt-thyme|mt-soysauce|mt-rosemary|mt-oliveoil|mt-korea|mt-blackpepper|mt-salt|mt-ketchup
+332,خوراک مرغ لیمویی,mt-lemonjuice|mt-chickenextract|mt-chickenmeat|mt-cornstarch|mt-rosemary|mt-basil|mt-lemon|mt-korea|mt-water|mt-garlic
+333,مرغ سرخ کرده ژاپنی,mt-starchpowder|mt-gingerpowder|mt-liquidoil|mt-soysauce|mt-chickenmeat
+334,خوراک مرغ در گردو,mt-thyme|mt-paprika|mt-walnut|mt-sugarpowder|mt-gingerpowder|mt-eggs|mt-salt|mt-whiteflour|mt-liquidoil|mt-breadcrumbflour|mt-garlicpowder|mt-chickenmeat|mt-blackpepper|mt-cowmilk
+335,مرغ در شیر نارگیل,mt-chickenmeat|mt-onion|mt-coconutmilk|mt-gingerpowder|mt-korea|mt-cuminseeds|mt-greenpepper|mt-lemon|mt-garlic|mt-blackpepper|mt-salt|mt-almond
+336,مرغ در سس پیاز و سرکه,mt-smellleaf|mt-water|mt-sugar|mt-salt|mt-redpepper|mt-korea|mt-onion|mt-grapevinegar|mt-chickenbreastmeat
+337,خوراک مرغ پرتقالی,mt-onion|mt-blackpepper|mt-liquidoil|mt-korea|mt-chickenmeat|mt-barberry|mt-salt|mt-saffron|mt-honey|mt-orangejuice
+338,خوراک مرغ و قارچ چینی,mt-mungbeansprouts|mt-cinnamon|mt-mushrooms|mt-fennel|mt-blackpepper|mt-soysauce|mt-scallion|mt-gingerpowder|mt-liquidoil|mt-chickenbreastmeat
+339,خوراک مرغ با سس مخصوص,mt-honey|mt-paprika|mt-thyme|mt-blackpepper|mt-lemonjuice|mt-garlicpowder|mt-salt|mt-oliveoil|mt-driedbasil|mt-ketchup|mt-liquidoil|mt-chickenbreastmeat|mt-garlic|mt-sumac|mt-mustardpowder|mt-scallion|mt-balsamicvinegar
+340,خوراک مرغ و بادمجان,mt-liquidoil|mt-onion|mt-eggplant|mt-tomatoes|mt-salt|mt-bellpepper|mt-blackpepper|mt-chickenbreastmeat
+341,سالاد ماکارونی,mt-ham|mt-corn|mt-lemonjuice|mt-carrot|mt-thyme|mt-mayonnaise|mt-mustardsauce|mt-blackpepper|mt-pickles|mt-peas|mt-formipasta|mt-salt
+342,سالاد پاییزی,mt-salt|mt-lemonjuice|mt-pomegranate|mt-mayonnaise|mt-carrot|mt-redcabbageleaves|mt-blackpepper
+343,ارده و تخم مرغ,mt-lemonjuice|mt-garlic|mt-ardeh|mt-blackcumin|mt-jafari|mt-oliveoil|mt-salt|mt-coriander|mt-eggs
+344,ارده و ماست,mt-blackpepper|mt-lemonjuice|mt-garlic|mt-coriander|mt-yogurt|mt-salt|mt-ardeh
+345,ایکرا,mt-salt|mt-oliveoil|mt-blackpepper|mt-tomatoes|mt-eggplant|mt-onion|mt-liquidoil
+346,باباغنوج,mt-salt|mt-tomatoes|mt-pomegranatepaste|mt-walnut|mt-blackpepper|mt-eggplant|mt-bellpepper|mt-lemonjuice|mt-onion|mt-oliveoil
+347,حُمص با گوشت,mt-water|mt-ardeh|mt-blackpepper|mt-blackpepper|mt-lemonjuice|mt-mincedmeat|mt-salt|mt-pea|mt-garlic|mt-salt|mt-onion|mt-garlic|mt-turmeric|mt-yogurt|mt-almondslice|mt-nutmeg|mt-oliveoil
+348,حُمص محمره,mt-ardeh|mt-oliveoil|mt-salt|mt-garlic|mt-blackpepper|mt-bellpepper|mt-tomatoes|mt-oliveoil|mt-garlic|mt-pea|mt-lemonjuice|mt-paprika|mt-water|mt-blackpepper|mt-yogurt|mt-salt
+349,دیپ قارچ,mt-oreganoororegano|mt-mayonnaise|mt-garlic|mt-salt|mt-redpepper|mt-mushrooms|mt-walnut
+350,فطایر گوشت و قارچ,mt-mushrooms|mt-whiteflour|mt-onion|mt-blackpepper|mt-salt|mt-cowmilk|mt-bellpepper|mt-salt|mt-sugar|mt-tomatopaste|mt-cowmilk|mt-turmeric|mt-oliveoil|mt-mincedmeat|mt-doughbread|mt-korea|mt-eggs|mt-thyme
+351,فطایر مرغ و قارچ,mt-bellpepper|mt-eggs|mt-doughbread|mt-cowmilk|mt-redpepper|mt-blackpepper|mt-korea|mt-oliveoil|mt-turmeric|mt-salt|mt-salt|mt-onion|mt-chickenbreastmeat|mt-tandoorispice|mt-oliveoil|mt-whiteflour|mt-cowmilk|mt-sugar
+352,فطایر اسفناج و پنیر,mt-blackpepper|mt-eggs|mt-korea|mt-cheese(creamcheese)|mt-salt|mt-cowmilk|mt-sugar|mt-walnut|mt-doughbread|mt-corianderseeds|mt-oliveoil|mt-whiteflour|mt-cowmilk|mt-spinach|mt-salt
+353,فطایر خرما و گردو,mt-sesame|mt-doughbread|mt-korea|mt-cowmilk|mt-cinnamon|mt-sugar|mt-walnut|mt-dates|mt-push|mt-whiteflour|mt-cowmilk|mt-korea|mt-salt|mt-oliveoil|mt-eggs
+354,قارچ کاراملی,mt-balsamicvinegar|mt-water|mt-mushrooms|mt-oliveoil|mt-soysauce|mt-starchpowder|mt-garlic|mt-blackpepper|mt-honey
+355,کاپوناتا,mt-blackpepper|mt-garlic|mt-bellpepper|mt-eggplant|mt-tomatoes|mt-basil|mt-salt|mt-liquidoil|mt-savory|mt-thyme
+356,سالاد الویه,mt-smellleaf|mt-mayonnaise|mt-potato|mt-onion|mt-peas|mt-carrot|mt-yogurt|mt-pickledcucumbers|mt-blackpepper|mt-chickenbreastmeat|mt-lemonjuice|mt-turmeric|mt-water|mt-salt|mt-eggs|mt-rosemary|mt-oliveoil
+357,دلمه کلم ترکیه,mt-drieddill|mt-liquidoil|mt-salt|mt-clove|mt-cinnamon|mt-water|mt-rice|mt-nutmeg|mt-tomatoes|mt-blackpepper|mt-sugar|mt-tomatopaste|mt-sugar|mt-saffron|mt-liquidoil|mt-onion|mt-lemonjuice|mt-driedmint|mt-almondslice|mt-water|mt-raisins|mt-kale|mt-salt|mt-lemonjuice|mt-water
+358,کاسادیا,mt-mozzarellacheese|mt-mayonnaise|mt-turmeric|mt-onion|mt-pitabread|mt-salt|mt-chickenbreastmeat|mt-redpepper|mt-tandoorispice|mt-blackpepper|mt-oliveoil|mt-bellpepper
+359,کاناپه پنیر,mt-plainbiscuits|mt-cheese(creamcheese)|mt-mascarponecheese|mt-blackpepper|mt-jafari|mt-cherrytomato
+360,کرپ سوخاری اسفناج و پنیر,mt-cheese(creamcheese)|mt-sugar|mt-eggs|mt-breadcrumbflour|mt-salt|mt-spinach|mt-whiteflour|mt-salt|mt-corianderseeds|mt-liquidoil|mt-cowmilk|mt-eggs|mt-water|mt-cowmilk|mt-walnut|mt-salt|mt-blackpepper
+361,کرپ سوخاری خرما و گردو,mt-korea|mt-water|mt-push|mt-breadcrumbflour|mt-liquidoil|mt-cowmilk|mt-sugar|mt-eggs|mt-salt|mt-cowmilk|mt-cinnamon|mt-sesame|mt-salt|mt-dates|mt-whiteflour|mt-walnut|mt-eggs
+362,کرپ سوخاری گوشت و قارچ,mt-eggs|mt-onion|mt-mincedmeat|mt-salt|mt-mushrooms|mt-bellpepper|mt-eggs|mt-salt|mt-liquidoil|mt-salt|mt-breadcrumbflour|mt-tomatopaste|mt-cowmilk|mt-sugar|mt-turmeric|mt-thyme|mt-blackpepper|mt-liquidoil|mt-whiteflour|mt-cowmilk|mt-water
+363,کرپ سوخاری مرغ و قارچ,mt-bellpepper|mt-salt|mt-sugar|mt-liquidoil|mt-turmeric|mt-eggs|mt-chickenbreastmeat|mt-tandoorispice|mt-eggs|mt-redpepper|mt-water|mt-salt|mt-whiteflour|mt-blackpepper|mt-oliveoil|mt-cowmilk|mt-breadcrumbflour|mt-cowmilk|mt-onion|mt-salt
+364,کشک و بادمجان,mt-driedmint|mt-whey|mt-turmeric|mt-blackpepper|mt-walnut|mt-onion|mt-eggplant|mt-water|mt-liquidoil|mt-salt|mt-garlic
+365,متبل,mt-eggplant|mt-yogurt|mt-oliveoil|mt-lemonjuice|mt-garlic|mt-ardeh
+366,کشک و کدو,mt-water|mt-salt|mt-garlic|mt-driedmint|mt-greensquash|mt-turmeric|mt-liquidoil|mt-onion|mt-whey|mt-blackpepper
+367,بادمجان شکم پر ایران,mt-corianderseeds|mt-turmeric|mt-salt|mt-mutton|mt-tomatopaste|mt-clove|mt-blackpepper|mt-sourgrapejuice|mt-liquidoil|mt-turmeric|mt-eggplant|mt-blackpepper|mt-salt|mt-bellpepper|mt-onion|mt-garlic|mt-tomatopaste|mt-liquidoil
+368,دلمه کلم ایران,mt-mincedmeat|mt-water|mt-salt|mt-garlic|mt-lemonjuice|mt-turmeric|mt-kale|mt-onion|mt-eggplantsalad|mt-sugar|mt-liquidoil|mt-blackpepper|mt-saffron|mt-rice|mt-tomatopaste|mt-water|mt-salt|mt-water|mt-cotyledons|mt-liquidoil
+369,سالاد سیب و بروکلی,mt-raisins|mt-liquidoil|mt-honey|mt-mayonnaise|mt-carrot|mt-lemon|mt-cauliflower|mt-salt|mt-onion|mt-appletree|mt-yogurt|mt-walnut
+370,چیز کیک شکلاتی,mt-cocoachocolate|mt-vanilla|mt-cowmilk|mt-sugar|mt-whiteflour|mt-eggs|mt-liquidoil|mt-sugar|mt-vanilla|mt-cornstarch|mt-cocoapowder|mt-korea|mt-whiteflour|mt-cowmilk|mt-bakingpowder
+371,کاپ کیک با مغز کرمفیل,mt-cocoachocolate|mt-eggs|mt-korea|mt-vanilla|mt-carampyl|mt-cocoapowder|mt-cowmilk|mt-sugar|mt-bakingpowder|mt-whiteflour
+372,کاپ کیک نارگیل شکلاتی,mt-cowmilk|mt-vanilla|mt-liquidoil|mt-whiteflour|mt-coconutpowder|mt-cocoapowder|mt-sugar|mt-eggs|mt-bakingpowder
+373,کاپ کیک مغزدار,mt-sugarpowder|mt-liquidoil|mt-eggs|mt-eggs|mt-vanilla|mt-coconutpowder|mt-bakingpowder|mt-sugar|mt-cocoapowder|mt-whiteflour|mt-cowmilk
+374,کاپ کیک نسکافه,mt-liquidoil|mt-cowmilk|mt-sugar|mt-bakingpowder|mt-whiteflour|mt-nescafepowder|mt-vanilla|mt-eggs
+375,نان کندو عسلی,mt-lemonjuice|mt-walnut|mt-salt|mt-bakingpowder|mt-cowmilk|mt-cowmilk|mt-eggs|mt-cheese|mt-sugar|mt-saffron|mt-doughbread|mt-sugar|mt-korea|mt-whiteflour|mt-water|mt-golab|mt-dates
+376,سالاد شاورما,mt-potato|mt-jafari|mt-coriander|mt-garlic|mt-lettuce|mt-sumac|mt-lemonjuice|mt-fullfatyogurt|mt-salt|mt-lavashbread|mt-chickenbreastmeat|mt-ardeh|mt-onion
+377,کیک آشتی کنون,mt-liquidoil|mt-eggs|mt-sugar|mt-bakingpowder|mt-ardeh|mt-vanilla|mt-sesame|mt-cowmilk|mt-whiteflour
+378,کیک آفتاب,mt-push|mt-sugar|mt-yogurt|mt-cowmilk|mt-bakingpowder|mt-eggs|mt-salt|mt-saffron|mt-vanilla|mt-whiteflour|mt-liquidoil|mt-concentratedhoneymilk|mt-push|mt-saffron
+379,کیک براونی,mt-bakingpowder|mt-cocoapowder|mt-eggs|mt-whiteflour|mt-sugar|mt-korea|mt-water|mt-vanilla
+380,کیک خیس شکلاتی,mt-cowmilk|mt-whiteflour|mt-cocoapowder|mt-eggs|mt-liquidoil|mt-sugar|mt-vanilla|mt-bakingpowder
+381,کیک خیس کاراملی,mt-sugar|mt-bakingpowder|mt-eggs|mt-cowmilk|mt-caramelcream|mt-whiteflour|mt-liquidoil|mt-vanilla
+382,کیک دارچینی,mt-vanilla|mt-whiteflour|mt-cinnamon|mt-bakingpowder|mt-blacktea|mt-sugar|mt-liquidoil|mt-eggs
+383,کیک زمستانه,mt-gingerpowder|mt-yogurt|mt-liquidoil|mt-bakingpowder|mt-sugar|mt-whiteflour|mt-bakingsoda|mt-vanilla|mt-eggs
+384,کیک شکلاتی با سس گاناش,mt-cocoachocolate|mt-sugar|mt-cream|mt-whiteflour|mt-cocoapowder|mt-vanilla|mt-bakingpowder|mt-eggs|mt-liquidoil|mt-water
+385,کیک شکلاتی پنبه‌ای,mt-cocoapowder|mt-liquidoil|mt-whiteflour|mt-water|mt-vanilla|mt-eggs|mt-bakingpowder|mt-sugar
+386,کیک شنی,mt-liquidoil|mt-push|mt-yogurt|mt-eggs|mt-concentratedhoneymilk|mt-coconutpowder|mt-sugar|mt-bakingpowder|mt-whiteflour
+387,کیک صبحانه ویژه,mt-bakingpowder|mt-eggs|mt-vanilla|mt-sugar|mt-whiteflour|mt-cream|mt-liquidoil
+388,کیک طلا,mt-saffron|mt-cowmilk|mt-eggs|mt-sugar|mt-liquidoil|mt-sesame|mt-bakingpowder|mt-vanilla|mt-whiteflour
+389,کیک غنچه,mt-sugar|mt-vanilla|mt-bakingpowder|mt-liquidoil|mt-golab|mt-eggs|mt-whiteflour
+390,کیک گرمسیری,mt-push|mt-coconutpowder|mt-sugarpowder|mt-sugar|mt-saffron|mt-korea|mt-eggs|mt-water|mt-whiteflour|mt-golab|mt-bakingpowder|mt-vanilla
+391,کیک ماسالا,mt-whiteflour|mt-cowmilk|mt-cinnamon|mt-eggs|mt-cocoapowder|mt-nutmeg|mt-clove|mt-golab|mt-bakingpowder|mt-bakingsoda|mt-liquidoil|mt-gingerpowder|mt-push|mt-sugar
+392,کیک مغزدار پسته و هل,mt-korea|mt-cowmilk|mt-sugar|mt-golab|mt-sugar|mt-whiteflour|mt-bakingpowder|mt-pistachio|mt-push|mt-eggs|mt-push
+393,کیک ژله‌ای موزی,mt-cowmilk|mt-essentialoil|mt-liquidoil|mt-sugar|mt-whiteflour|mt-bakingpowder|mt-eggs|mt-gelpowder
+394,کیک نسکافه و قهوه,mt-whiteflour|mt-liquidoil|mt-cowmilk|mt-bakingpowder|mt-korea|mt-eggs|mt-vanilla|mt-nescafepowder|mt-coffee|mt-sugar
+395,کیک هویج و گردو,mt-walnut|mt-sugar|mt-bakingpowder|mt-vanilla|mt-carrot|mt-salt|mt-liquidoil|mt-whiteflour|mt-cinnamon|mt-eggs
+396,کیک یزدی اصیل,mt-sugar|mt-eggs|mt-yogurt|mt-solidoil|mt-bakingsoda|mt-liquidoil|mt-whiteflour|mt-push
+397,لوف کیک دو رنگ,mt-sugar|mt-yogurt|mt-bakingpowder|mt-cocoapowder|mt-vanilla|mt-yogurt|mt-eggs|mt-golab|mt-whiteflour|mt-liquidoil|mt-sesame
+398,لوف کیک عصرانه,mt-vanilla|mt-whiteflour|mt-salt|mt-sugar|mt-liquidoil|mt-eggs|mt-cowmilk|mt-bakingpowder
+399,ساندویچ ژامبون,mt-lettuce|mt-tomatoes|mt-olive|mt-ham|mt-toast
+400,تست قارچ,mt-blackpepper|mt-mushrooms|mt-korea|mt-garlic|mt-cream|mt-salt|mt-toast|mt-scallion
+401,سالاد گل کلم,mt-mayonnaise|mt-almond|mt-salt|mt-whiteflour|mt-cauliflower|mt-onion|mt-thyme|mt-cowmilk|mt-korea|mt-coriander|mt-redpepper|mt-salt
+402,باقالی پلو با ماهیچه,mt-garlic|mt-onion|mt-saffron|mt-bean|mt-blackpepper|mt-drieddill|mt-salt|mt-water|mt-muscles|mt-rice|mt-cinnamon|mt-liquidoil
+403,چای شیر هندی,mt-blacktea|mt-water|mt-sugar|mt-cowmilk
+404,باقالی پلو,mt-saffron|mt-salt|mt-bean|mt-water|mt-drieddill|mt-rice|mt-liquidoil|mt-cinnamon
+405,باقالی پلو با مرغ,mt-cinnamon|mt-turmeric|mt-onion|mt-cinnamon|mt-saffron|mt-smellleaf|mt-liquidoil|mt-salt|mt-push|mt-chickenbreastmeat|mt-drieddill|mt-blackpepper|mt-rice|mt-water|mt-bean
+406,برنج کاسه ای آذری,mt-chickenbreastmeat|mt-liquidoil|mt-salt|mt-saffron|mt-push|mt-carrot|mt-currypowder|mt-onion|mt-barberry|mt-pistachioslice|mt-rice|mt-cinnamon|mt-blackpepper|mt-saffron|mt-water|mt-liquidoil|mt-onion|mt-almondslice|mt-salt|mt-corianderseeds|mt-peas|mt-turmeric|mt-corn|mt-turmeric
+407,دمی بلغور,mt-liquidoil|mt-onion|mt-salt|mt-wheatbulgur|mt-tomatopaste|mt-tomatoes|mt-blackpepper
+408,پسته پلو با مرغ,mt-pistachio|mt-chickenmeat|mt-salt|mt-turmeric|mt-push|mt-cinnamon|mt-liquidoil|mt-blackpepper|mt-drieddill|mt-smellleaf|mt-rice|mt-onion|mt-saffron
+409,پلو بادمجان با مرغ,mt-rice|mt-turmeric|mt-blackpepper|mt-eggplant|mt-onion|mt-saffron|mt-salt|mt-cinnamon|mt-push|mt-liquidoil|mt-chickenbreastmeat
+410,پلو بریانی,mt-saffron|mt-blackpepper|mt-omanilemon(amani)|mt-cinnamon|mt-freshginger|mt-clove|mt-spicygreenpepper|mt-garlic|mt-salt|mt-turmeric|mt-mutton|mt-blackcumin|mt-yogurtabstract|mt-push|mt-onion|mt-currypowder|mt-mint|mt-coriander|mt-rice
+411,پلو شوشتری,mt-cinnamon|mt-saffron|mt-rice|mt-digger|mt-salt|mt-cowpeabeans
+412,پلو شوشتری با گوشت,mt-cowpeabeans|mt-salt|mt-turmeric|mt-blackpepper|mt-liquidoil|mt-onion|mt-saffron|mt-digger|mt-mincedmeat|mt-breadcrumbflour|mt-cinnamon|mt-rice
+413,پلو شوشتری با مرغ,mt-cowpeabeans|mt-onion|mt-turmeric|mt-saffron|mt-digger|mt-cinnamon|mt-chickenbreastmeat|mt-push|mt-salt|mt-rice|mt-blackpepper
+414,ته چین اسفناج با گوشت,mt-turmeric|mt-mincedmeat|mt-cinnamon|mt-onion|mt-breadcrumbflour|mt-blackpepper|mt-salt|mt-golab|mt-eggs|mt-blackcumin|mt-saffron|mt-liquidoil|mt-rice|mt-spinach|mt-yogurtabstract
+415,کته زعفرانی,mt-liquidoil|mt-rice|mt-salt|mt-saffron|mt-water
+416,سماق پلو با گوشت,mt-mincedmeat|mt-onion|mt-sumac|mt-blackpepper|mt-rice|mt-salt|mt-liquidoil|mt-turmeric|mt-breadcrumbflour
+417,سیب پلو کرمانشاهی,mt-mincedmeat|mt-salt|mt-kermanshahioil|mt-potato|mt-blackpepper|mt-fryingoil|mt-water|mt-raisins|mt-turmeric|mt-digger|mt-dates|mt-onion|mt-rice|mt-saffron
+418,شیر پلو تبریزی,mt-almondslice|mt-chickenbreastmeat|mt-golab|mt-cinnamon|mt-pistachioslice|mt-salt|mt-water|mt-onion|mt-raisins|mt-cowmilk|mt-korea|mt-push|mt-saffron|mt-rice|mt-blackpepper
+419,شیرین پلو با مرغ,mt-water|mt-chickenbreastmeat|mt-barberry|mt-onion|mt-almondslice|mt-liquidoil|mt-push|mt-turmeric|mt-korea|mt-salt|mt-sugar|mt-rice|mt-orangepeel|mt-saffron|mt-pistachioslice|mt-blackpepper
+420,قنبر پلو شیرازی,mt-salt|mt-walnut|mt-water|mt-raisins|mt-rice|mt-onion|mt-liquidoil|mt-grapejuice|mt-pomegranatepaste
+421,قنبر پلو شیرازی با مرغ,mt-turmeric|mt-liquidoil|mt-onion|mt-salt|mt-saffron|mt-raisins|mt-datesyrup|mt-chickenmince|mt-blackpepper|mt-push|mt-rice|mt-pomegranatepaste|mt-walnut
+422,قیمه نثار,mt-sugar|mt-pistachioslice|mt-tomatopaste|mt-blackpepper|mt-korea|mt-mutton|mt-turmeric|mt-salt|mt-cinnamon|mt-water|mt-liquidoil|mt-rice|mt-saffron|mt-push|mt-golab|mt-orangepeel|mt-barberry|mt-almondslice
+423,کشمش پلو,mt-raisins|mt-korea|mt-saffron|mt-salt|mt-liquidoil|mt-water|mt-rice
+424,طرز تهیه برنج آبکشی,mt-salt|mt-rice|mt-liquidoil
+425,خورش ساق,mt-blackpepper|mt-turmeric|mt-breadcrumbflour|mt-cotyledons|mt-korea|mt-onion|mt-sourorangejuice|mt-chickenmince|mt-meatextract|mt-spinach|mt-riceflour|mt-salt|mt-coriander
+426,اسلایس شَعریه,mt-water|mt-bakingpowder|mt-eggs|mt-push|mt-saffron|mt-sugar|mt-coconutpowder|mt-liquidoil|mt-milkformula|mt-it'spoetry.|mt-water|mt-lemonjuice
+427,پاناکوتا,mt-gelatin|mt-sugar|mt-water|mt-gelpowder|mt-vanilla|mt-cowmilk|mt-cream
+428,پودینگ برنج,mt-salt|mt-vanilla|mt-korea|mt-cream|mt-rice|mt-cowmilk|mt-sugar
+429,پودینگ شکلاتی,mt-whiteflour|mt-cornstarch|mt-vanilla|mt-sugar|mt-cocoapowder|mt-cowmilk|mt-cream|mt-cocoachocolate
+430,پودینگ موزی,mt-cowmilk|mt-saffron|mt-cornstarch|mt-vanilla|mt-golab|mt-banana|mt-cocoapowder|mt-sugar
+431,تیرامیسو,mt-nescafepowder|mt-sugarpowder|mt-plainbiscuits|mt-cream|mt-mascarponecheese|mt-water
+432,توپک پنیری,mt-doughbread|mt-cheese(creamcheese)|mt-yogurt|mt-bakingpowder|mt-cowmilk|mt-water|mt-concentratedhoneymilk|mt-it'spoetry.|mt-milkformula|mt-sugar|mt-liquidoil|mt-whiteflour|mt-liquidoil
+433,توپک شَعریه,mt-concentratedhoneymilk|mt-it'spoetry.|mt-korea|mt-milkformula
+434,توپک کنجدی,mt-honey|mt-sesame|mt-korea|mt-grapejuice
+435,حلوا شیر خشک عربی,mt-sugar|mt-milkformula|mt-water|mt-saffron|mt-whiteflour|mt-liquidoil|mt-cornstarch
+436,حلوا شَعریه,mt-concentratedhoneymilk|mt-push|mt-saffron|mt-it'spoetry.|mt-korea
+437,دسر ایرانه,mt-golab|mt-sugar|mt-cowmilk|mt-gelatin|mt-water|mt-saffron|mt-cream
+438,دسر شانامو,mt-gelpowder|mt-icecream|mt-concentratedhoneymilk|mt-gelatin|mt-cream|mt-mascarponecheese
+439,دسر شَعریه با شیر,mt-golab|mt-it'spoetry.|mt-concentratedhoneymilk|mt-saffron|mt-cornstarch|mt-water|mt-cowmilk|mt-korea|mt-push|mt-cream
+440,دسر عربی,mt-sugar|mt-plainbiscuits|mt-cowmilk|mt-nescafepowder|mt-gelatin|mt-cream|mt-caramelcream
+441,سالاد باقلا سبز مصر,mt-garlic|mt-digger|mt-bean|mt-oliveoil|mt-salt|mt-fatacheese|mt-lemonjuice|mt-blackpepper
+442,سالاد پرچم,mt-onion|mt-blackpepper|mt-tomatoes|mt-thyme|mt-grapevinegar|mt-bellpepper|mt-oliveoil|mt-salt|mt-savory
+443,سالاد رنگین کمان,mt-bellpepper|mt-lemonjuice|mt-mint|mt-greencucumber|mt-jafari|mt-olive|mt-blackpepper|mt-tomatoes|mt-oliveoil|mt-salt
+444,سالاد فتوش,mt-sumac|mt-lemonjuice|mt-greenpepper|mt-radish|mt-tomatoes|mt-lettuce|mt-pitabread|mt-jafari|mt-oliveoil|mt-scallion|mt-pomegranatepaste
+445,سالاد لوبیا سبز,mt-greenbeans|mt-onion|mt-jafari|mt-carrot|mt-mayonnaise
+446,سالاد اندونزی,mt-pickles|mt-whitecabbage|mt-ham|mt-mayonnaise|mt-lemonjuice|mt-corn|mt-peas|mt-carrot|mt-redcabbageleaves
+447,دسر ایرمیک,mt-toast|mt-cocoachocolate|mt-cowmilk|mt-semolinaflour|mt-saffron|mt-cornstarch|mt-sugar|mt-cream|mt-whiteflour|mt-water
+448,دسر شیر موز,mt-banana|mt-sugar|mt-gelatin|mt-vanilla|mt-fullfatcow'smilk|mt-saffron|mt-cream|mt-water
+449,برانی کدو,mt-onion|mt-potato|mt-liquidoil|mt-blackpepper|mt-greensquash|mt-garlic|mt-sourgrapejuice|mt-salt|mt-turmeric|mt-tomatoes
+450,دالگونا,mt-nescafepowder|mt-sugar|mt-cowmilk|mt-water
+451,ته چین مرغ,mt-rice|mt-yogurtabstract|mt-turmeric|mt-barberry|mt-almondslice|mt-blackpepper|mt-salt|mt-push|mt-onion|mt-saffron|mt-water|mt-eggs|mt-chickenbreastmeat|mt-pistachioslice|mt-liquidoil|mt-golab
+452,پیتزا کالزون مرغ,mt-nigellasativa|mt-blackpepper|mt-garlic|mt-Dough|mt-bellpepper|mt-chickenmeat|mt-salt|mt-oliveoil|mt-ketchup|mt-thyme|mt-cream|mt-mushrooms|mt-eggs|mt-fullfatcow'smilk
+453,سس محمره,mt-tomatoes|mt-garlic|mt-paprika|mt-bellpepper|mt-salt|mt-blackpepper
+454,پیتزا تندوری,mt-cheese(processcheese)|mt-mushrooms|mt-bellpepper|mt-turmeric|mt-garlic|mt-grahammasala|mt-blackcumin|mt-paprika|mt-liquidoil|mt-blackpepper|mt-Dough|mt-ketchup|mt-oliveoil|mt-driedmint|mt-freshginger|mt-chickenmeat|mt-salt|mt-blackpepper|mt-liquidoil|mt-yogurt
+455,خوراک گردن با پیاز کاراملی,mt-liquidoil|mt-blackpepper|mt-saffron|mt-salt|mt-garlic|mt-onion|mt-mutton
+456,خورش بامیه,mt-okra|mt-mutton|mt-salt|mt-indiansour|mt-blackpepper|mt-garlic|mt-tomatopaste|mt-onion|mt-turmeric
+457,خورش دال عدس,mt-onion|mt-dahllentils|mt-liquidoil|mt-blackcumin|mt-potato|mt-tomatoes|mt-blackpepper|mt-turmeric|mt-redpepper|mt-tomatopaste|mt-garlic|mt-omanilemon(amani)|mt-salt
+458,خورش فسنجان بادام با مرغ,mt-saffron|mt-pomegranatepaste|mt-sugar|mt-chickenbreastmeat|mt-salt|mt-almond|mt-onion|mt-turmeric|mt-blackpepper|mt-liquidoil
+459,کشمش پلو با گوشت,mt-water|mt-salt|mt-mincedmeat|mt-rice|mt-blackpepper|mt-breadcrumbflour|mt-raisins|mt-liquidoil|mt-onion|mt-saffron|mt-turmeric|mt-korea|mt-salt
+460,خورش کلم,mt-salt|mt-currypowder|mt-liquidoil|mt-tomatopaste|mt-water|mt-cinnamon|mt-beef|mt-onion|mt-blackpepper|mt-lunarcabbage|mt-sourgrapejuice|mt-turmeric|mt-plum|mt-gingerpowder
+461,فسنجان پسته,mt-turmeric|mt-whiteflour|mt-chickenmeat|mt-water|mt-sugar|mt-liquidoil|mt-salt|mt-onion|mt-pistachio|mt-pomegranatepaste
+462,خورش فسنجان فندق با گوشت قلقلی,mt-saffron|mt-turmeric|mt-pomegranatepaste|mt-sugar|mt-liquidoil|mt-blackpepper|mt-chickpeaflour|mt-onion|mt-hazelnut|mt-salt|mt-mincedmeat|mt-onion
+463,خورش فسنجان فندق با مرغ,mt-turmeric|mt-chickenbreastmeat|mt-saffron|mt-salt|mt-pomegranatepaste|mt-onion|mt-hazelnut|mt-blackpepper|mt-sugar|mt-liquidoil
+464,کشمش پلو با مرغ زعفرانی,mt-korea|mt-saffron|mt-liquidoil|mt-push|mt-chickenmeat|mt-rice|mt-onion|mt-raisins|mt-smellleaf|mt-salt|mt-salt|mt-turmeric|mt-saffron|mt-cinnamon|mt-blackpepper|mt-water
+465,کلم پلو,mt-salt|mt-blackpepper|mt-onion|mt-liquidoil|mt-turmeric|mt-rice|mt-omanilemon(amani)|mt-peloispice|mt-lunarcabbage
+466,کلم پلو با گوشت,mt-blackpepper|mt-lunarcabbage|mt-liquidoil|mt-liquidoil|mt-water|mt-blackpepper|mt-onion|mt-turmeric|mt-omanilemon(amani)|mt-salt|mt-breadcrumbflour|mt-mincedmeat|mt-onion|mt-rice|mt-salt|mt-turmeric|mt-peloispice
+467,کلم پلو با مرغ,mt-push|mt-salt|mt-onion|mt-omanilemon(amani)|mt-turmeric|mt-lunarcabbage|mt-turmeric|mt-salt|mt-onion|mt-liquidoil|mt-water|mt-saffron|mt-rice|mt-peloispice|mt-blackpepper|mt-blackpepper|mt-chickenmince
+468,لخلاخ بوشهری,mt-blackpepper|mt-onion|mt-salt|mt-whiteflour|mt-digger|mt-liquidoil|mt-blackpepper|mt-garlic|mt-omanilemon(amani)|mt-turmeric|mt-fishfillet|mt-liquidoil|mt-rice|mt-turmeric|mt-salt|mt-roundlemon
+469,مگشت پلو,mt-fenugreek|mt-peloispice|mt-coriander|mt-liquidoil|mt-redpepper|mt-hotonions|mt-digger|mt-raisins|mt-blackpepper|mt-onion|mt-salt|mt-rice|mt-currypowder|mt-cannedtuna
+470,میگو پلو,mt-onion|mt-saffron|mt-salt|mt-rice|mt-turmeric|mt-shrimp|mt-blackpepper|mt-roundlemon|mt-raisins|mt-liquidoil|mt-cinnamon
+471,هویج پلو,mt-rice|mt-sugar|mt-carrot|mt-saffron|mt-liquidoil|mt-golab|mt-push|mt-almondslice|mt-korea|mt-raisins|mt-pistachioslice
+472,هویج پلو با گوشت,mt-rice|mt-breadcrumbflour|mt-turmeric|mt-carrot|mt-sugar|mt-blackpepper|mt-salt|mt-liquidoil|mt-push|mt-blackpepper|mt-onion|mt-saffron|mt-mincedmeat|mt-raisins|mt-almondslice|mt-salt|mt-liquidoil|mt-korea|mt-turmeric|mt-pistachioslice|mt-golab
+473,هویج پلو با مرغ,mt-turmeric|mt-rice|mt-chickenbreastmeat|mt-pistachioslice|mt-push|mt-salt|mt-push|mt-saffron|mt-salt|mt-blackpepper|mt-carrot|mt-turmeric|mt-almondslice|mt-sugar|mt-korea|mt-liquidoil|mt-liquidoil|mt-blackpepper|mt-onion|mt-raisins|mt-golab
+474,پلو میگو و نخود سبز,mt-turmeric|mt-salt|mt-water|mt-garlic|mt-shrimp|mt-onion|mt-greenpepper|mt-blackpepper|mt-liquidoil|mt-grahammasala|mt-greenpeas|mt-redpepper|mt-rice
+475,برانی لوبیاسبز,mt-gravy.|mt-cinnamon|mt-driedparsley|mt-driedmint|mt-greenbeans|mt-tomatopaste|mt-onion|mt-blackpepper|mt-rice|mt-water|mt-salt|mt-liquidoil|mt-cotyledons
+476,لوبیا پلو یزد,mt-onion|mt-water|mt-turmeric|mt-pintobeans|mt-cinnamon|mt-liquidoil|mt-rice|mt-blackpepper|mt-beef|mt-salt|mt-blackcumin
+477,شله بریان زیره,mt-saffron|mt-blackcumin|mt-liquidoil|mt-turmeric|mt-blackpepper|mt-water|mt-halfgrainrice|mt-salt|mt-onion|mt-beef
+478,برنج کنگری,mt-rice|mt-artichoke|mt-salt|mt-water
+479,برانی پلو,mt-walnut|mt-sugar|mt-salt|mt-water|mt-squash|mt-cinnamon|mt-korea|mt-rice|mt-cowmilk
+480,قلیه ماهی,mt-garlic|mt-indiansour|mt-coriander|mt-corianderseeds|mt-turmeric|mt-whiteflour|mt-salt|mt-spicygreenpepper|mt-onion|mt-fenugreek|mt-driedfenugreek|mt-fishfillet|mt-tomatopaste
+481,قلیه میگو,mt-corianderseeds|mt-onion|mt-whiteflour|mt-indiansour|mt-tomatopaste|mt-salt|mt-shrimp|mt-driedfenugreek|mt-garlic|mt-turmeric|mt-coriander|mt-blackpepper|mt-spicygreenpepper|mt-fenugreek
+482,خورش قیمه بادمجان با گوشت قلقلی,mt-omanilemon(amani)|mt-turmeric|mt-liquidoil|mt-mincedmeat|mt-tomatopaste|mt-blackpepper|mt-chickpeaflour|mt-salt|mt-cinnamon|mt-eggplant|mt-turmeric|mt-cotyledons|mt-onion|mt-saffron|mt-salt|mt-onion|mt-blackpepper
+483,خورش فاصولیه,mt-tomatopaste|mt-salt|mt-turmeric|mt-driedfenugreek|mt-whitebeans|mt-onion|mt-blackpepper|mt-mutton|mt-liquidoil
+484,خورش کاری میگو,mt-tomatopaste|mt-turmeric|mt-salt|mt-currypowder|mt-liquidoil|mt-blackcumin|mt-fullfatyogurt|mt-corianderseeds|mt-paprika|mt-gingerpowder|mt-onion|mt-garlic|mt-shrimp
+485,خورش کرفس,mt-liquidoil|mt-salt|mt-mint|mt-jafari|mt-tomatopaste|mt-blackpepper|mt-celery|mt-sourorangejuice|mt-mutton|mt-turmeric|mt-celery
+486,خورش گل کلم با گوشت,mt-paprika|mt-mutton|mt-mint|mt-tomatopaste|mt-sourorangejuice|mt-salt|mt-cauliflower|mt-saffron|mt-blackpepper|mt-jafari|mt-onion|mt-cinnamon|mt-digger
+487,خورش آلو اسفناج,mt-turmeric|mt-garlic|mt-salt|mt-liquidoil|mt-pomegranatepaste|mt-onion|mt-mutton|mt-torre|mt-spinach|mt-blackpepper|mt-jafari|mt-plumbukhara
+488,خورش داوود پاشا,mt-pomegranatepaste|mt-salt|mt-chickpeaflour|mt-salt|mt-driedmint|mt-onion|mt-onion|mt-mincedmeat|mt-turmeric|mt-whiteflour|mt-liquidoil|mt-blackpepper
+489,شکلات باونتی,mt-liquidoil|mt-hazelnut|mt-cocoachocolate|mt-coconutpowder|mt-concentratedhoneymilk
+490,سینی مرغ و سیب‌زمینی,mt-lemonjuice|mt-onion|mt-paprika|mt-chickenmeat|mt-vinegar|mt-yogurt|mt-potato|mt-salt|mt-blackpepper|mt-turmeric|mt-grahammasala|mt-thyme|mt-redpepper|mt-garlic|mt-oliveoil
+491,کرپ,mt-eggs|mt-whiteflour|mt-korea|mt-vanilla|mt-cowmilk
+492,خورش مرغ کره ای هندی,mt-yogurt|mt-tomatopaste|mt-coriander|mt-driedfenugreek|mt-chickenbreastmeat|mt-blackcumin|mt-freshginger|mt-garlic|mt-corianderseeds|mt-redpepper|mt-cream|mt-grahammasala|mt-onion|mt-salt|mt-turmeric
+493,قیمه ریزه سیب زمینی,mt-water|mt-salt|mt-blackpepper|mt-onion|mt-tomatoes|mt-onion|mt-mincedmeat|mt-salt|mt-liquidoil|mt-potato|mt-blackpepper
+494,نوشیدنی چیا,mt-water|mt-cowmilk|mt-Chia-Seeds|mt-cream|mt-golab|mt-honey
+495,سالاد رژیمی,mt-paprika|mt-lemon|mt-corn|mt-oliveoil|mt-redbeans|mt-cherrytomato|mt-scallion|mt-lemonjuice|mt-jafari|mt-salt|mt-garlic|mt-onion|mt-garlicpowder|mt-yogurt|mt-salt|mt-blackpepper|mt-lettuce|mt-chickenbreastmeat
+496,حُمص,mt-oliveoil|mt-garlic|mt-water|mt-blackpepper|mt-yogurt|mt-pea|mt-lemonjuice|mt-ardeh|mt-salt
+497,پلو مرغ کانتون,mt-carrot|mt-ketchup|mt-bellpepper|mt-blackpepper|mt-rice|mt-salt|mt-chickenbreastmeat|mt-corianderseeds|mt-paprika|mt-vinegar|mt-soysauce|mt-cornstarch|mt-garlic|mt-water|mt-onion
+498,سالاد مرغ,mt-cream|mt-redpepper|mt-lemon|mt-onion|mt-almondslice|mt-celery|mt-salt|mt-raisins|mt-chickenbreastmeat
+499,خورش قورمه سبزی,mt-salt|mt-blackpepper|mt-omanilemon(amani)|mt-turmeric|mt-omanilemon(amani)|mt-mutton|mt-onion|mt-redbeans|mt-sabzighormeh
+500,روکر موز,mt-walnut|mt-cornstarch|mt-vanilla|mt-cream|mt-water|mt-gelatin|mt-sugar|mt-banana|mt-water|mt-mascarponecheese|mt-gelpowder|mt-eggs|mt-liquidoil|mt-plainbiscuits|mt-cowmilk
+501,خورش مرغ مسلم,mt-garlic|mt-liquidoil|mt-blackpepper|mt-chickenbreastmeat|mt-corianderseeds|mt-freshginger|mt-clove|mt-onion|mt-blackcumin|mt-tomatoes|mt-push|mt-turmeric|mt-salt|mt-cinnamon
+502,خورش قیمه سیب زمینی (بدون گوشت),mt-cotyledons|mt-liquidoil|mt-push|mt-blackpepper|mt-onion|mt-tomatopaste|mt-omanilemon(amani)|mt-saffron|mt-golab|mt-potato|mt-salt|mt-cinnamon|mt-turmeric
+503,شیر شکلات,mt-cream|mt-cowmilk|mt-cinnamon|mt-cocoachocolate|mt-sesame
+504,مرغ ترش مازندران,mt-walnut|mt-chickenbreastmeat|mt-pomegranatepaste|mt-oreganoororegano|mt-blackpepper|mt-turmeric|mt-onion|mt-corianderseeds|mt-salt|mt-jafari
+505,خورش مرغ در سس قرمز,mt-liquidoil|mt-blackcumin|mt-lemon|mt-garlic|mt-bellpepper|mt-turmeric|mt-freshginger|mt-corianderseeds|mt-blackpepper|mt-salt|mt-spicygreenpepper|mt-onion|mt-chickenmeat
+506,خورش مرغ شاه جهانی,mt-blackcumin|mt-chickenbreastmeat|mt-yogurt|mt-onion|mt-salt|mt-raisins|mt-almond|mt-gingerpowder|mt-blackpepper|mt-saffron|mt-smellleaf|mt-clove|mt-cinnamon|mt-garlic|mt-cream|mt-push|mt-liquidoil
+507,خورش فسنجان بادام با گوشت,mt-sugar|mt-onion|mt-pomegranatepaste|mt-liquidoil|mt-almond|mt-salt|mt-onion|mt-turmeric|mt-blackpepper|mt-mincedmeat|mt-chickpeaflour|mt-saffron
+508,خورش فسنجان گردو با گوشت قلقلی,mt-walnut|mt-onion|mt-blackpepper|mt-onion|mt-salt|mt-turmeric|mt-sugar|mt-pomegranatepaste|mt-liquidoil|mt-chickpeaflour|mt-saffron|mt-mincedmeat
+509,خورش فسنجان گردو با مرغ,mt-turmeric|mt-onion|mt-blackpepper|mt-salt|mt-liquidoil|mt-sugar|mt-chickenbreastmeat|mt-pomegranatepaste|mt-walnut
+510,خورش مسما بادمجان,mt-saffron|mt-chickenbreastmeat|mt-onion|mt-turmeric|mt-tomatoes|mt-ghoreh|mt-eggplant|mt-salt|mt-tomatopaste|mt-blackpepper|mt-sourgrapejuice|mt-liquidoil
+511,خورش هویج با گوشت,mt-sourorangejuice|mt-turmeric|mt-mutton|mt-tomatopaste|mt-liquidoil|mt-saffron|mt-plum|mt-blackpepper|mt-onion|mt-carrot|mt-salt
+512,خورش نازخاتون,mt-mint|mt-salt|mt-liquidoil|mt-turmeric|mt-eggplant|mt-onion|mt-mutton|mt-blackpepper|mt-sourgrapejuice|mt-jafari
+513,خورش به اصفهان,mt-onion|mt-beef|mt-sugar|mt-liquidoil|mt-plum|mt-water|mt-turmeric|mt-salt|mt-lemonjuice|mt-blackpepper|mt-to|mt-tomatopaste
+514,بادمجان شکم پر ایتالیا,mt-tomatoes|mt-salt|mt-onion|mt-eggplant|mt-mozzarellacheese|mt-aromaticherbs|mt-mushrooms|mt-blackpepper|mt-jafari|mt-thyme|mt-garlic|mt-liquidoil
+515,کتلت کینوا,mt-salt|mt-blackcumin|mt-eggs|mt-quinoa|mt-carrot|mt-water|mt-liquidoil|mt-jafari|mt-scallion|mt-chickpeaflour|mt-blackpepper|mt-turmeric
+516,بسبوسه,mt-cheese|mt-sugar|mt-sugar|mt-cream|mt-semolinaflour|mt-golab|mt-sugar|mt-bakingpowder|mt-yogurt|mt-coconutpowder|mt-starch|mt-vanilla|mt-lemonjuice|mt-liquidoil|mt-cowmilk|mt-water|mt-eggs
+517,ماهی انگشتی,mt-gingerpowder|mt-chilipepper|mt-chickenextract|mt-cornstarch|mt-garlic|mt-whiteflour|mt-bakingpowder|mt-salt|mt-blackpepper|mt-fishfillet|mt-scallion
+518,چای با دارچین,mt-blacktea|mt-cinnamon|mt-water
+519,بریانی سندی,mt-salt|mt-blackcumin|mt-mutton|mt-chilipepper|mt-push|mt-korea|mt-onion|mt-rice|mt-cowmilk|mt-corianderseeds|mt-turmeric|mt-coriander|mt-golab|mt-smellleaf|mt-almondslice|mt-driedmint|mt-gingerpowder|mt-raisins|mt-blackpepper|mt-cinnamon|mt-clove|mt-onion|mt-yogurt|mt-garlic|mt-saffron|mt-paprika
+520,توله سرخ‌شده,mt-turmeric|mt-onion|mt-salt|mt-nardon|mt-water|mt-Cub-Sabzi|mt-blackpepper|mt-liquidoil
+521,دوغ بَرَک,mt-salt|mt-whiteflour|mt-dough|mt-liquidoil|mt-turmeric|mt-blackpepper
+522,تاوا کباب,mt-liquidoil|mt-salt|mt-blackpepper|mt-saffron|mt-tomatoes|mt-onion|mt-mincedmeat|mt-tomatopaste
+523,خورش کنگر آذربایجان شرقی,mt-lemonjuice|mt-turmeric|mt-saffron|mt-artichoke|mt-water|mt-blackpepper|mt-onion|mt-tomatopaste|mt-liquidoil|mt-beef|mt-salt
+524,چای با هل,mt-push|mt-water|mt-blacktea
+525,میگو پلو خوزستانی,mt-liquidoil|mt-blackpepper|mt-rice|mt-water|mt-salt|mt-gingerpowder|mt-drieddill|mt-paprika|mt-shrimp|mt-saffron|mt-onion|mt-garlicpowder
+526,کوفته قیمه ریزه,mt-blackpepper|mt-salt|mt-salt|mt-turmeric|mt-mincedmeat|mt-turmeric|mt-onion|mt-onion|mt-blackpepper|mt-chickpeaflour|mt-liquidoil|mt-water|mt-driedmint|mt-driedfenugreek|mt-tomatopaste
+527,شربت آلو بخارا,mt-water|mt-plumbukhara|mt-sugar
+528,لوبیا پلو تهران,mt-onion|mt-mincedmeat|mt-cinnamon|mt-greenbeans|mt-blackpepper|mt-salt|mt-omanilemon(amani)|mt-liquidoil|mt-rice|mt-tomatopaste|mt-water
+529,چیزکیک توت‌فرنگی,mt-whiteflour|mt-essentialoil|mt-sugarpowder|mt-gelatin|mt-sugar|mt-cream|mt-cowmilk|mt-cocoapowder|mt-vanilla|mt-liquidoil|mt-Strawberry|mt-cowmilk|mt-bakingpowder|mt-gelpowder|mt-mascarponecheese|mt-eggs
+530,کشک و خیار,mt-walnut|mt-raisins|mt-greencucumber|mt-whey|mt-basil|mt-water|mt-onion|mt-blackcumin|mt-driedmint
+531,کباب کافتا,mt-liquidoil|mt-blackpepper|mt-mincedmeat|mt-salt|mt-onion|mt-jafari
+532,خورش خلال بادام,mt-cinnamon|mt-saffron|mt-turmeric|mt-liquidoil|mt-mutton|mt-salt|mt-almondslice|mt-barberry|mt-golab|mt-push|mt-omanilemon(amani)|mt-onion|mt-blackpepper|mt-korea|mt-tomatopaste
+533,فرنی گلاب,mt-cowmilk|mt-cream|mt-riceflour|mt-golab|mt-sugar
+534,پیچاق قیمه,mt-liquidoil|mt-almondslice|mt-salt|mt-turmeric|mt-water|mt-hotonions|mt-onion|mt-beef|mt-tomatopaste|mt-sourgrapejuice|mt-blackpepper
+535,خورش هویج با مرغ,mt-chickenbreastmeat|mt-saffron|mt-tomatopaste|mt-plum|mt-sourorangejuice|mt-turmeric|mt-carrot|mt-blackpepper|mt-onion|mt-liquidoil|mt-salt
+536,مرغ آلفردو با کلم بروکسل,mt-liquidoil|mt-salt|mt-chickenbreastmeat|mt-blackpepper|mt-cornstarch|mt-cowmilk|mt-mozzarellacheese|mt-brusselscabbage|mt-garlic
+537,دمنوش زعفران,mt-saffron|mt-water
+538,سالاد ماکارونی مکزیکی,mt-mayonnaise|mt-bellpepper|mt-lemon|mt-salt|mt-pitabread|mt-onion|mt-pasta|mt-blackpepper|mt-oliveoil|mt-yogurt|mt-garlic|mt-aromaticherbs|mt-greenpepper|mt-tomatoes|mt-corn
+539,سالاد ماکارونی ایتالیایی,mt-jafari|mt-olive|mt-oliveoil|mt-celery|mt-onion|mt-blackpepper|mt-salt|mt-cream|mt-formipasta|mt-greenpepper|mt-vinegar
+540,کشک بلوچی,mt-onion|mt-whey|mt-liquidoil|mt-driedmint|mt-salt|mt-turmeric|mt-water
+541,مکش (دمپختک),mt-raisins|mt-blackcumin|mt-liquidoil|mt-beef|mt-onion|mt-water|mt-salt|mt-tomatoes|mt-blackpepper|mt-rice|mt-plum|mt-turmeric
+542,پنیر برشته,mt-salt|mt-eggs|mt-blackpepper|mt-korea|mt-digger|mt-cheese
+543,ماهی کره‌ای,mt-salt|mt-salmon|mt-liquidoil|mt-blackpepper|mt-jafari|mt-lemon|mt-korea|mt-breadcrumbflour
+544,جوجه با استخوان تندوری با سس نعناع,mt-freshginger|mt-salt|mt-grahammasala|mt-tomatopaste|mt-blackpepper|mt-yogurt|mt-chickenmeat|mt-yogurt|mt-blackpepper|mt-coriander|mt-garlic|mt-oliveoil|mt-onion|mt-turmeric|mt-tandoorispice|mt-corianderseeds|mt-blackcumin|mt-mint|mt-paprika|mt-salt
+545,جوجه زعفرانی,mt-oliveoil|mt-garlic|mt-bellpepper|mt-mayonnaise|mt-barbecuesauce|mt-chickenbreastmeat|mt-yogurt|mt-onion|mt-redpepper|mt-nutmeg|mt-salt|mt-saffron|mt-mustardpowder|mt-cocktail
+546,جوجه کباب ترش عربی,mt-blackpepper|mt-lemon|mt-tomatopaste|mt-paprika|mt-chickenbreastmeat|mt-liquidoil|mt-vinegar|mt-freshginger|mt-garlic|mt-lemonpeel|mt-salt|mt-yogurt|mt-thyme
+547,جوجه مخصوص حس تازگی,mt-mayonnaise|mt-saffron|mt-mushrooms|mt-cocktail|mt-oliveoil|mt-chickenmeat|mt-salt|mt-mozzarellacheese|mt-onion|mt-barbecuesauce|mt-bellpepper|mt-yogurt|mt-redpepper|mt-nutmeg|mt-mustardpowder|mt-bellpepper|mt-garlic
+548,جوجه یاکی توری,mt-chickenmeat|mt-whitevinegar|mt-soysauce|mt-blackpepper|mt-sugar|mt-water|mt-lemonjuice|mt-ardeh|mt-chickenextract
+549,جوجه ران تندوری,mt-blackcumin|mt-turmeric|mt-mint|mt-grahammasala|mt-liquidoil|mt-lemonjuice|mt-tomatopaste|mt-chickenmeat|mt-garlic|mt-blackpepper|mt-freshginger|mt-tandoorispice|mt-paprika|mt-salt|mt-yogurt
+550,نان و خامه و عسل,mt-cream|mt-honey|mt-typesofbread
+551,نان و کره و عسل,mt-typesofbread|mt-honey|mt-valve
+552,نان و سر شیر و عسل,mt-typesofbread|mt-honey|mt-valve
+553,نان و سرشیر و مربا,mt-valve|mt-Jam|mt-typesofbread
+554,نان و خامه و مربا,mt-Jam|mt-typesofbread|mt-cream
+555,سالاد تبوله,mt-tomatoes|mt-lemonjuice|mt-mint|mt-salt|mt-oliveoil|mt-scallion|mt-wheatbulgur|mt-blackpepper|mt-jafari
+556,تره,mt-liquidoil|mt-eggs|mt-wildvegetables|mt-korea|mt-water|mt-turmeric|mt-salt|mt-onion|mt-rice|mt-blackpepper|mt-cotyledons
+557,دمنوش دارچین و نبات,mt-water|mt-cinnamon|mt-Candy
+558,آش گوجه,mt-tomatoes|mt-currypowder|mt-salt|mt-water|mt-gingerpowder|mt-turmeric|mt-onion|mt-blackcumin|mt-driedmint|mt-pea|mt-tomatopaste|mt-meatextract|mt-rice|mt-blackpepper|mt-liquidoil|mt-vegetableash
+559,پنکیک موزی,mt-liquidoil|mt-salt|mt-cowmilk|mt-sugar|mt-eggs|mt-essentialoil|mt-whiteflour|mt-bakingpowder
+560,خوراک قارچ و گل کلم,mt-balsamicvinegar|mt-starch|mt-buttonmushrooms|mt-soysauce|mt-honey|mt-jafari|mt-garlic|mt-water|mt-cauliflower|mt-blackpepper|mt-korea
+561,خورش قیمه بادمجان (بدون گوشت),mt-eggplant|mt-onion|mt-salt|mt-turmeric|mt-cotyledons|mt-tomatopaste|mt-saffron|mt-cherrytomato|mt-blackpepper|mt-omanilemon(amani)|mt-cinnamon
+562,اریک پلو,mt-salt|mt-water|mt-apricotleaf|mt-rice
+563,استیک مرغ سوخاری,mt-rosemary|mt-breadcrumbpowder|mt-chickenbreastmeat|mt-cowmilk|mt-korea|mt-blackpepper|mt-salt
+564,اسکالوپ گوشت در شیر,mt-korea|mt-breadcrumbpowder|mt-cowmilk|mt-rosemary|mt-calffillet
+565,اسکالوپ گوشت و گوجه,mt-onion|mt-blackpepper|mt-korea|mt-salt|mt-calffillet|mt-garlic|mt-drysatureja|mt-tarragon|mt-tomatopaste
+566,خوراک لوبیا و قارچ,mt-meatextract|mt-turmeric|mt-mushrooms|mt-blackpepper|mt-liquidoil|mt-onion|mt-water|mt-tomatopaste|mt-salt|mt-pintobeans|mt-korea
+567,عدسی با جوپرک,mt-joeperk|mt-liquidoil|mt-angelica|mt-water|mt-turmeric|mt-onion|mt-salt|mt-blackpepper|mt-lentils
+568,دوپیازه نخود و لوبیا,mt-tomatopaste|mt-potato|mt-turmeric|mt-water|mt-freshginger|mt-redpepper|mt-garlic|mt-pea|mt-pintobeans|mt-blackpepper|mt-grahammasala|mt-liquidoil|mt-onion|mt-yogurt
+569,دال لپه,mt-blackcumin|mt-indiansour|mt-potato|mt-cotyledons|mt-turmeric|mt-blackpepper|mt-water|mt-salt|mt-carrot|mt-smellleaf|mt-mustardpowder|mt-liquidoil|mt-coconutpowder|mt-onion|mt-corianderseeds
+570,عدس با سبزیجات,mt-turmeric|mt-oliveoil|mt-salt|mt-celery|mt-chickenextract|mt-tomatoes|mt-garlic|mt-water|mt-onion|mt-lentils|mt-water|mt-carrot|mt-blackpepper|mt-jafari
+571,خوراک دال عدس,mt-garlic|mt-onion|mt-water|mt-turmeric|mt-salt|mt-water|mt-driedmint|mt-blackpepper|mt-redlentils|mt-potato|mt-liquidoil|mt-indiansour
+572,سیب زمینی نقلی,mt-turmeric|mt-korea|mt-potato|mt-redpepper|mt-water|mt-salt|mt-nigellasativa
+573,سیب زمینی ماست و ادویه,mt-greenpepper|mt-clove|mt-onion|mt-corianderseeds|mt-salt|mt-turmeric|mt-blackcumin|mt-water|mt-yogurt|mt-potato|mt-blackpepper|mt-korea|mt-coriander|mt-freshginger
+574,سیب زمینی گجراتی,mt-driedfenugreek|mt-korea|mt-potato|mt-coriander|mt-corianderseeds|mt-cumin|mt-sesame|mt-turmeric|mt-salt|mt-coconutpowder|mt-redpepper
+575,سیب زمینی با سس شوید,mt-whiteflour|mt-potato|mt-digger|mt-lemon|mt-salt|mt-water|mt-redpepper|mt-cowmilk|mt-korea
+576,سیب زمینی با کارامل,mt-salt|mt-potato|mt-korea|mt-cream|mt-sugar|mt-water
+577,پوره سیب زمینی,mt-cream|mt-cowmilk|mt-water|mt-blackpepper|mt-potato|mt-korea|mt-salt
+578,پوره سیب زمینی با بادام زمینی,mt-potato|mt-peanut|mt-cowmilk|mt-onion|mt-cinnamon|mt-korea|mt-salt
+579,پوره سیب زمینی با زعفران,mt-saffron|mt-saffron|mt-potato|mt-cowmilk|mt-water|mt-oliveoil|mt-blackpepper|mt-salt
+580,سیرابیج,mt-garlicleaf|mt-salt|mt-liquidoil|mt-eggs
+581,دوپیازه گوشت,mt-blackpepper|mt-onion|mt-mutton|mt-yogurt|mt-cinnamon|mt-garlic|mt-salt|mt-corianderseeds|mt-liquidoil|mt-push|mt-redpepper|mt-freshginger|mt-blackcumin|mt-clove
+582,خوراک ماهیچه با پیاز کاراملی,mt-muscles|mt-salt|mt-saffron|mt-blackpepper|mt-liquidoil|mt-onion|mt-garlic
+583,خوراک ماهیچه,mt-blackpepper|mt-salt|mt-liquidoil|mt-saffron|mt-cinnamon|mt-push|mt-onion|mt-muscles|mt-smellleaf|mt-turmeric
+584,خوراک گوشت با خامه,mt-liquidoil|mt-blackpepper|mt-whiteflour|mt-calffillet|mt-onion|mt-cream|mt-salt|mt-yogurt
+585,بیف استراگانف 1,mt-mushrooms|mt-thyme|mt-salt|mt-korea|mt-whiteflour|mt-onion|mt-blackpepper|mt-cowmilk|mt-cream|mt-liquidoil|mt-calffillet
+586,بیف استراگانف 2,mt-calffillet|mt-liquidoil|mt-mushrooms|mt-onion|mt-paprika|mt-korea|mt-tomatopaste|mt-mustardpowder|mt-blackpepper|mt-salt|mt-cream
+587,چواپی دودی,mt-blackpepper|mt-salt|mt-paprika|mt-garlic|mt-valve|mt-mincedmeat
+588,کباب انگشتی کشمیری,mt-redpepper|mt-cinnamon|mt-blackcumin|mt-onion|mt-blackpepper|mt-gingerpowder|mt-clove|mt-mincedmeat|mt-garlic|mt-nutmeg|mt-corianderseeds|mt-whiteflour|mt-coriander|mt-nigellasativa|mt-liquidoil|mt-salt
+589,کباب دیگی,mt-blackpepper|mt-salt|mt-Tail|mt-beef|mt-Baluchi-Spice
+590,گراتن بادمجان و قارچ,mt-jafari|mt-mushrooms|mt-mozzarellacheese|mt-blackpepper|mt-whiteflour|mt-eggplant|mt-korea|mt-corn|mt-salt|mt-cowmilk|mt-thyme
+591,گراتن بادمجان و گوشت,mt-mushrooms|mt-mozzarellacheese|mt-salt|mt-thyme|mt-cowmilk|mt-whiteflour|mt-mincedmeat|mt-thyme|mt-turmeric|mt-tomatopaste|mt-bellpepper|mt-blackpepper|mt-onion|mt-garlic|mt-korea|mt-eggplant|mt-nigellasativa|mt-corn|mt-blackpepper|mt-salt|mt-liquidoil
+592,گراتن پاستا با گوشت,mt-cowmilk|mt-corn|mt-blackpepper|mt-blackpepper|mt-onion|mt-formipasta|mt-mushrooms|mt-thyme|mt-mincedmeat|mt-mozzarellacheese|mt-whiteflour|mt-salt|mt-tomatopaste|mt-bellpepper|mt-liquidoil|mt-turmeric|mt-thyme|mt-salt|mt-garlic|mt-korea
+593,گراتن پاستا با مرغ,mt-chickenbreastmeat|mt-cowmilk|mt-salt|mt-blackpepper|mt-onion|mt-turmeric|mt-mozzarellacheese|mt-thyme|mt-blackpepper|mt-formipasta|mt-korea|mt-whiteflour|mt-salt|mt-mushrooms|mt-corianderseeds
+594,گراتن سیب زمینی و قارچ,mt-salt|mt-lemonjuice|mt-scallion|mt-potato|mt-jafari|mt-whiteflour|mt-goudacheese|mt-salt|mt-blackpepper|mt-thyme|mt-cowmilk|mt-blackpepper|mt-mushrooms|mt-korea
+595,گراتن شاورما,mt-liquidoil|mt-paprika|mt-blackcumin|mt-gingerpowder|mt-corianderseeds|mt-thyme|mt-vinegar|mt-cream|mt-mozzarellacheese|mt-bellpepper|mt-blackpepper|mt-oliveoil|mt-salt|mt-garlicpowder|mt-cheese(creamcheese)|mt-chickenbreastmeat|mt-potato
+596,خورش باقلا,mt-turmeric|mt-onion|mt-digger|mt-liquidoil|mt-bean|mt-salt|mt-mutton|mt-blackpepper
+597,شامی گیلانی,mt-mutton|mt-turmeric|mt-salt|mt-blackpepper|mt-onion|mt-eggs|mt-pea|mt-water|mt-liquidoil|mt-potato
+598,کباب مُشتی,mt-vinegar|mt-salt|mt-onion|mt-mincedmeat|mt-sugar|mt-chickpeaflour|mt-carrot|mt-saffron|mt-turmeric|mt-liquidoil|mt-blackpepper
+599,تاس کباب یزدی,mt-eggplant|mt-mincedmeat|mt-salt|mt-potato|mt-onion|mt-tomatoes|mt-blackpepper|mt-turmeric|mt-korea
+600,تاس کباب اصفهان,mt-onion|mt-to|mt-sugar|mt-turmeric|mt-mutton|mt-liquidoil|mt-salt|mt-tomatoes|mt-water|mt-potato|mt-grapevinegar|mt-blackpepper
+601,تاس‌کباب گوشت و صیفی جات,mt-garlicpowder|mt-mincedmeat|mt-eggs|mt-onion|mt-blackpepper|mt-liquidoil|mt-tomatopaste|mt-paprika|mt-salt|mt-water|mt-salt|mt-greensquash|mt-turmeric|mt-blackpepper|mt-liquidoil|mt-eggplant|mt-potato|mt-wholewheatflour
+602,چپلی کباب مرغ,mt-bellpepper|mt-coriander|mt-garlic|mt-liquidoil|mt-whiteflour|mt-turmeric|mt-chickenbreastmeat|mt-scallion|mt-salt|mt-corianderseeds|mt-spicygreenpepper
+603,چپلی کباب گوشت,mt-turmeric|mt-salt|mt-spicygreenpepper|mt-liquidoil|mt-corianderseeds|mt-mincedbeef|mt-garlic|mt-whiteflour|mt-coriander|mt-bellpepper|mt-scallion
+604,تاس کباب مرغ,mt-turmeric|mt-omanilemon(amani)|mt-salt|mt-to|mt-peas|mt-blackpepper|mt-tomatopaste|mt-carrot|mt-chickenmince|mt-blackpepper|mt-onion|mt-chickpeaflour|mt-liquidoil|mt-onion|mt-cinnamon|mt-water|mt-liquidoil|mt-potato|mt-turmeric|mt-salt
+605,تاس کباب مرغ با سس گوجه,mt-tomatopaste|mt-turmeric|mt-chickenbreastmeat|mt-salt|mt-blackpepper|mt-thyme|mt-turmeric|mt-balsamicvinegar|mt-paprika|mt-garlic|mt-liquidoil|mt-eggs|mt-whiteflour|mt-onion|mt-liquidoil|mt-tomatoes|mt-mustardsauce|mt-currypowder|mt-water
+606,کتلت سویا,mt-soy|mt-liquidoil|mt-blackpepper|mt-eggs|mt-turmeric|mt-potato|mt-onion|mt-salt
+607,کتلت,mt-onion|mt-liquidoil|mt-salt|mt-blackpepper|mt-garlic|mt-mincedmeat|mt-potato|mt-turmeric
+608,ترشه شامی,mt-water|mt-salt|mt-mincedmeat|mt-liquidoil|mt-salt|mt-sourorangejuice|mt-turmeric|mt-jafari|mt-tomatopaste|mt-blackpepper|mt-liquidoil|mt-cherrytomato|mt-onion|mt-turmeric|mt-blackpepper|mt-onion|mt-driedfenugreek
+609,کتلت بلغور,mt-garlic|mt-chickpeaflour|mt-liquidoil|mt-driedbasil|mt-eggs|mt-salt|mt-blackcumin|mt-onion|mt-wheatbulgur|mt-blackpepper|mt-mincedmeat
+610,کتلت ماهی,mt-blackpepper|mt-corianderseeds|mt-angelica|mt-salt|mt-whiteflour|mt-fishfillet|mt-blackcumin|mt-potato|mt-turmeric|mt-liquidoil|mt-driedherbs|mt-onion
+611,کتلت مرغ با بادام برشته,mt-korea|mt-toast|mt-liquidoil|mt-cowmilk|mt-breadcrumbflour|mt-blackpepper|mt-mushrooms|mt-clove|mt-blackcumin|mt-chickenmince|mt-almond|mt-nutmeg|mt-cinnamon|mt-eggs|mt-salt|mt-onion
+612,کتلت مرغ با شوید,mt-eggs|mt-liquidoil|mt-onion|mt-salt|mt-chickenmince|mt-blackpepper|mt-basil|mt-digger|mt-breadcrumbflour
+613,کتلت بوراژسکی,mt-onion|mt-eggs|mt-salt|mt-blackpepper|mt-garlic|mt-liquidoil|mt-toast|mt-breadcrumbflour|mt-chickenmeat|mt-jafari|mt-cowmilk
+614,پاستا با سس قارچ,mt-water|mt-jafari|mt-korea|mt-cream|mt-blackpepper|mt-pasta|mt-whiteflour|mt-mushrooms|mt-salt|mt-cowmilk|mt-lemonjuice|mt-salt|mt-liquidoil
+615,پاستا سوئدی,mt-water|mt-chickenjuice|mt-korea|mt-blackpepper|mt-whiteflour|mt-liquidoil|mt-liquidoil|mt-blackpepper|mt-mincedmeat|mt-cream|mt-chickpeaflour|mt-salt|mt-onion|mt-salt|mt-pasta|mt-salt|mt-jafari
+616,سوپ ماست,mt-carrot|mt-driedmint|mt-potato|mt-yogurt|mt-salt|mt-stringash|mt-coriander|mt-chickenextract|mt-water|mt-blackpepper
+617,کوفته کله گنجشکی,mt-garlicpowder|mt-blackpepper|mt-liquidoil|mt-tomatopaste|mt-chickenmince|mt-potato|mt-breadcrumbflour|mt-salt|mt-salt|mt-onion|mt-water|mt-onion|mt-blackpepper|mt-turmeric|mt-mincedmeat|mt-currypowder
+618,لازانیا مرغ با پیازچه,mt-cowmilk|mt-frenchsauce|mt-oliveoil|mt-scallion|mt-whiteflour|mt-smokedsauce|mt-ketchup|mt-thyme|mt-oreganoororegano|mt-blackpepper|mt-korea|mt-blackpepper|mt-paprika|mt-lasagna|mt-corn|mt-salt|mt-mayonnaise|mt-chickenbreastmeat|mt-garlicpowder|mt-garlic|mt-salt
+619,لازانیا قارچ و مرغ,mt-mayonnaise|mt-korea|mt-salt|mt-whiteflour|mt-blackpepper|mt-whiteflour|mt-cream|mt-blackpepper|mt-mustardsauce|mt-pasta|mt-cowmilk|mt-chickenbreastmeat|mt-korea|mt-mushrooms|mt-cowmilk|mt-onion|mt-thyme|mt-salt|mt-garlic
+620,لازانیا گوشت سرگنجشکی,mt-lasagna|mt-blackpepper|mt-water|mt-salt|mt-whiteflour|mt-mincedmeat|mt-mozzarellacheese|mt-cream|mt-korea|mt-jafari|mt-chickpeaflour|mt-onion|mt-meatextract
+621,لازانیا هویج و کرفس,mt-salt|mt-onion|mt-whiteflour|mt-whiteflour|mt-mozzarellacheese|mt-korea|mt-blackpepper|mt-cream|mt-thyme|mt-celery|mt-carrot|mt-blackpepper|mt-salt|mt-garlic|mt-cowmilk|mt-lasagna|mt-digger|mt-korea|mt-chickenjuice
+622,لازانیا زیتون و گوجه,mt-blackpepper|mt-cowmilk|mt-tomatoes|mt-lasagna|mt-salt|mt-salt|mt-garlic|mt-mozzarellacheese|mt-thyme|mt-blackpepper|mt-olive|mt-liquidoil|mt-korea|mt-tomatopaste|mt-whiteflour
+623,لازانیا بادمجان,mt-lasagna|mt-tomatopaste|mt-liquidoil|mt-cowmilk|mt-garlic|mt-blackpepper|mt-salt|mt-whiteflour|mt-eggplant|mt-bellpepper|mt-greensquash|mt-blackpepper|mt-mozzarellacheese|mt-korea|mt-salt|mt-thyme
+624,کوکو بروکلی با پنیر,mt-broccoli|mt-jafari|mt-garlic|mt-mozzarellacheese|mt-blackpepper|mt-salt|mt-liquidoil|mt-oreganoororegano|mt-eggs
+625,ماست بادمجان,mt-yogurt|mt-eggplant|mt-garlic|mt-salt|mt-onion|mt-blackpepper|mt-turmeric
+626,بورانی هویج,mt-yogurt|mt-carrot|mt-salt|mt-oliveoil|mt-garlic
+627,بورانی لبو,mt-garlic|mt-yogurtabstract|mt-beetu|mt-salt|mt-oliveoil
+628,بورانی گوجه فرنگی,mt-nigellasativa|mt-yogurt|mt-sugar|mt-greenpepper|mt-coriander|mt-salt|mt-tomatoes
+629,بورانی گل کلم و نخود سبز,mt-salt|mt-blackcumin|mt-blackpepper|mt-cauliflower|mt-greenpeas|mt-yogurt
+630,بورانی گشنیز و گردو,mt-sweetyogurt|mt-coriander|mt-salt|mt-blackpepper|mt-walnut|mt-scallion
+631,بورانی کرفس و اسفناج,mt-blackpepper|mt-spinach|mt-walnut|mt-yogurtabstract|mt-salt|mt-celery
+632,بورانی کرفس,mt-blackpepper|mt-driedmint|mt-celery|mt-salt|mt-yogurt
+633,بورانی کدو سبز,mt-blackcumin|mt-sweetyogurt|mt-walnut|mt-blackpepper|mt-salt|mt-greensquash
+634,بورانی قارچ,mt-mushrooms|mt-salt|mt-blackpepper|mt-liquidoil|mt-half-finished
+635,بورانی سیر,mt-garlic|mt-yogurt|mt-hardcream|mt-salt|mt-blackpepper
+636,بورانی سیب زمینی,mt-potato|mt-coriander|mt-sweetyogurt|mt-liquidoil|mt-blackcumin
+637,بورانی زنجبیل,mt-yogurt|mt-freshginger|mt-nigellasativa|mt-spicygreenpepper|mt-mustardpowder|mt-onion|mt-salt|mt-coconutpowder
+638,بورانی بادمجان و سیر,mt-blackpepper|mt-salt|mt-yogurt|mt-eggplant|mt-garlic
+639,بورانی اسفناج,mt-redpepper|mt-blackcumin|mt-driedfenugreek|mt-salt|mt-sweetyogurt|mt-liquidoil|mt-spinach
+640,کوکو کاهو,mt-blackpepper|mt-walnut|mt-salt|mt-lettuce|mt-eggs|mt-turmeric|mt-cowmilk|mt-bakingpowder|mt-liquidoil
+641,کوکو سبزی,mt-blackpepper|mt-Vegetable-Coco|mt-eggs|mt-liquidoil|mt-walnut|mt-turmeric|mt-barberry|mt-salt
+642,کوکو گزنه,mt-turmeric|mt-salt|mt-blackpepper|mt-eggs|mt-onion|mt-garlic|mt-Nettle|mt-liquidoil
+643,کوکو زرشک و تره,mt-liquidoil|mt-blackpepper|mt-salt|mt-walnut|mt-torre|mt-barberry|mt-flowerblossom|mt-eggs
+644,کوکو اسفناج,mt-salt|mt-spinach|mt-blackpepper|mt-eggs|mt-liquidoil
+645,کوکو شیرین,mt-golab|mt-saffron|mt-liquidoil|mt-sugar|mt-water|mt-eggs|mt-potato
+646,کوکو گردو,mt-whiteflour|mt-turmeric|mt-mint|mt-saffron|mt-salt|mt-blackpepper|mt-walnut|mt-liquidoil|mt-jafari|mt-eggs
+647,کوکو ذرت,mt-whiteflour|mt-corn|mt-eggs|mt-bakingpowder|mt-blackpepper|mt-scallion|mt-oliveoil|mt-salt|mt-bellpepper|mt-jafari|mt-liquidoil
+648,کوکو بادمجان کبابی,mt-turmeric|mt-liquidoil|mt-eggplant|mt-blackpepper|mt-whiteflour|mt-garlic|mt-salt|mt-eggs
+649,کوکو بادمجان حلقه ای,mt-liquidoil|mt-salt|mt-eggs|mt-turmeric|mt-blackpepper|mt-whiteflour|mt-eggplant
+650,کوکو بادکوبه ای,mt-eggs|mt-garlic|mt-tomatopaste|mt-barberry|mt-liquidoil|mt-chickenbreastmeat|mt-onion|mt-salt|mt-potato|mt-corianderseeds|mt-turmeric|mt-cinnamon|mt-blackpepper
+651,کوکو تره فرنگی,mt-turmeric|mt-driedfenugreek|mt-salt|mt-blackpepper|mt-walnut|mt-eggs|mt-leeks|mt-garlic|mt-bakingpowder|mt-liquidoil|mt-whiteflour
+652,کوکو سیب زمینی,mt-onion|mt-eggs|mt-liquidoil|mt-blackpepper|mt-salt|mt-potato|mt-turmeric
+653,کوکو کدو,mt-greensquash|mt-onion|mt-potato|mt-blackpepper|mt-garlic|mt-carrot|mt-eggs|mt-turmeric|mt-salt|mt-liquidoil
+654,کوکو کلم سفید,mt-whiteflour|mt-blackpepper|mt-eggs|mt-whitecabbage|mt-liquidoil|mt-salt|mt-scallion|mt-mozzarellacheese
+655,لازانیا مرغ پرتقالی,mt-onion|mt-soysauce|mt-lasagna|mt-chickenbreastmeat|mt-salt|mt-orangejuice|mt-blackpepper|mt-mozzarellacheese|mt-liquidoil|mt-cream|mt-bellpepper
+656,لازانیا قارچ و گوشت,mt-blackpepper|mt-blackpepper|mt-tomatoes|mt-lasagna|mt-sugar|mt-tomatopaste|mt-thyme|mt-basil|mt-mozzarellacheese|mt-salt|mt-salt|mt-onion|mt-korea|mt-mincedmeat|mt-water|mt-cowmilk|mt-mushrooms|mt-garlic|mt-liquidoil|mt-whiteflour
+657,لازانیا قارچ,mt-whiteflour|mt-lemonjuice|mt-mushrooms|mt-lasagna|mt-mozzarellacheese|mt-korea|mt-cowmilk|mt-cream
+658,لازانیا مرغ سرگنجشکی,mt-chickpeaflour|mt-turmeric|mt-salt|mt-chickenmince|mt-tomatoes|mt-tomatopaste|mt-mozzarellacheese|mt-lasagna|mt-blackpepper|mt-onion
+659,سوپ ییلاق,mt-salt|mt-whiteflour|mt-blackpepper|mt-onion|mt-water|mt-yogurt|mt-mincedmeat|mt-halfgrainrice|mt-liquidoil|mt-korea|mt-driedmint|mt-chickpeaflour|mt-blackpepper|mt-meatextract|mt-salt
+660,سوپ نخود آب,mt-cinnamon|mt-lemon|mt-corianderseeds|mt-garlic|mt-onion|mt-coriander|mt-redpepper|mt-clove|mt-greenpepper|mt-blackcumin|mt-tomatopaste|mt-turmeric|mt-water|mt-pea|mt-salt
+661,سوپ گشنیز,mt-chickenextract|mt-water|mt-peeledoats|mt-onion|mt-yogurt|mt-salt|mt-blackpepper|mt-korea|mt-coriander
+662,سوپ سیب زمینی,mt-onion|mt-tarragon|mt-cowmilk|mt-potato|mt-cream|mt-savory|mt-driedmint|mt-salt|mt-thyme|mt-smellleaf|mt-korea|mt-water|mt-whiteflour|mt-chickenextract|mt-celery|mt-blackpepper
+663,سوپ سبزیجات خامه‌ای,mt-mushrooms|mt-korea|mt-blackpepper|mt-carrot|mt-salt|mt-garlic|mt-jafari|mt-whiteflour|mt-water|mt-corn|mt-peas|mt-cowmilk|mt-chickenextract|mt-cream|mt-onion
+664,سوپ دال عدس,mt-noodles|mt-water|mt-driedmint|mt-blackpepper|mt-liquidoil|mt-lemonjuice|mt-rice|mt-redlentils|mt-salt|mt-turmeric
+665,سوپ جو,mt-tomatopaste|mt-blackpepper|mt-cream|mt-salt|mt-corianderseeds|mt-liquidoil|mt-joeperk|mt-water|mt-onion|mt-chickenbreastmeat|mt-turmeric|mt-whitepepper
+666,سوپ تره فرنگی,mt-blackpepper|mt-water|mt-leeks|mt-tarragon|mt-fullfatcow'smilk|mt-chickenextract|mt-mushrooms|mt-onion|mt-salt|mt-whiteflour|mt-liquidoil
+667,سوپ پیاز,mt-nutmeg|mt-salt|mt-redpepper|mt-cream|mt-korea|mt-water|mt-chickenextract|mt-onion|mt-whiteflour|mt-jafari
+668,استیک مرغ گریل,mt-mayonnaise|mt-rosemary|mt-bellpepper|mt-onion|mt-nutmeg|mt-oliveoil|mt-chickenbreastmeat|mt-redpepper|mt-garlic|mt-barbecuesauce|mt-mustardpowder|mt-soysauce
+669,خوراک مرغ حیدرآبادی,mt-turmeric|mt-grahammasala|mt-salt|mt-gingerpowder|mt-chickenbreastmeat|mt-liquidoil|mt-sesame|mt-coriander|mt-cream|mt-redpepper|mt-onion|mt-garlic|mt-peanut|mt-yogurt
+670,ماهی کیلکا روغن جوش,mt-cornstarch|mt-liquidoil|mt-water|mt-salt|mt-oliveoil|mt-whiteflour|mt-kilkafish|mt-blackpepper|mt-salt|mt-thyme
+671,توپک هویج,mt-walnut|mt-plainbiscuits|mt-coconutpowder|mt-carrot|mt-korea
+672,رشته‌پلو با گوشت,mt-salt|mt-cinnamon|mt-breadcrumbflour|mt-raisins|mt-almondslice|mt-blackpepper|mt-mincedmeat|mt-rice|mt-onion|mt-golab|mt-saffron|mt-liquidoil|mt-turmeric|mt-ploystring
+673,نان و پنیر و کره,mt-typesofbread|mt-korea|mt-cheese
+674,نان و پنیر و خیار و گوجه,mt-tomatoes|mt-greencucumber|mt-typesofbread
+675,شفته انار,mt-liquidoil|mt-turmeric|mt-chickpeaflour|mt-water|mt-salt|mt-turmeric|mt-mincedmeat|mt-pomegranatejuice|mt-onion|mt-blackpepper|mt-onion
+676,شفته سماق,mt-blackpepper|mt-onion|mt-turmeric|mt-chickpeaflour|mt-water|mt-salt|mt-water|mt-liquidoil|mt-mincedmeat|mt-sumac|mt-turmeric|mt-onion
+677,کوفته کباب,mt-liquidoil|mt-blackpepper|mt-mincedmeat|mt-grapejuice|mt-rice|mt-chickpeaflour|mt-water|mt-eggs|mt-salt|mt-drieddill|mt-torre|mt-turmeric|mt-vinegar|mt-onion
+678,کوفته ریزه,mt-chickpeaflour|mt-water|mt-salt|mt-turmeric|mt-turmeric|mt-onion|mt-onion|mt-blackpepper|mt-liquidoil|mt-blackpepper|mt-omanilemon(amani)|mt-salt|mt-mincedmeat
+679,کوفته کشک اصفهان,mt-chickpeaflour|mt-driedmint|mt-onion|mt-blackpepper|mt-garlicpowder|mt-whey|mt-salt|mt-liquidoil|mt-turmeric|mt-blackpepper|mt-onion|mt-paprika|mt-rice|mt-salt|mt-aromaticherbs|mt-turmeric|mt-rice|mt-mincedmeat
+680,کوفته کرمانشاهی,mt-salt|mt-walnut|mt-onion|mt-chickpeaflour|mt-hotonions|mt-blackpepper|mt-pea|mt-plum|mt-turmeric|mt-quaileggs|mt-salt|mt-mincedmeat|mt-blackpepper|mt-tomatopaste|mt-eggs|mt-water|mt-cotyledons|mt-onion|mt-raisins|mt-turmeric|mt-liquidoil|mt-lemonjuice|mt-thyme
+681,کوفته کاری,mt-coriander|mt-salt|mt-clove|mt-onion|mt-whiteflour|mt-turmeric|mt-liquidoil|mt-onion|mt-driedfenugreek|mt-water|mt-cinnamon|mt-mincedmeat|mt-freshginger|mt-salt|mt-blackpepper|mt-vermicelli|mt-blackpepper
+682,کوفته سوئدی,mt-cowmilk|mt-nutmeg|mt-soysauce|mt-eggs|mt-mincedmeat|mt-salt|mt-korea|mt-meatextract|mt-cream|mt-garlic|mt-whiteflour|mt-jafari|mt-onion|mt-blackpepper|mt-blackpepper|mt-water|mt-breadcrumbflour|mt-salt
+683,کوفته انار و گردو,mt-walnut|mt-onion|mt-breadcrumbflour|mt-eggs|mt-salt|mt-walnut|mt-pomegranatejuice|mt-blackpepper|mt-pomegranatepaste|mt-tomatopaste|mt-onion|mt-liquidoil|mt-pomegranatepaste|mt-salt|mt-mincedmeat|mt-blackpepper|mt-driedmint
+684,مدامس,mt-turmeric|mt-blackpepper|mt-salt|mt-blackcumin|mt-oliveoil|mt-redlentils|mt-water|mt-lemon|mt-bean
+685,خوراک باقلا زرد,mt-drieddill|mt-liquidoil|mt-turmeric|mt-lemonjuice|mt-blackpepper|mt-salt|mt-yellowbakala|mt-water|mt-oliveoil|mt-onion
+686,استیک گوشت با قارچ,mt-mushrooms|mt-onion|mt-salt|mt-thyme|mt-blackpepper|mt-korea|mt-calffillet|mt-cream
+687,شنیتسل گوشت,mt-salt|mt-cowmilk|mt-whiteflour|mt-eggs|mt-breadcrumbflour|mt-korea|mt-calffillet|mt-blackpepper
+688,مخلمه,mt-tomatopaste|mt-blackpepper|mt-corianderseeds|mt-liquidoil|mt-eggs|mt-salt|mt-bellpepper|mt-potato|mt-onion|mt-turmeric|mt-mincedmeat
+689,خوراک گوشت با سس باربیکیو,mt-blackpepper|mt-salt|mt-liquidoil|mt-freshginger|mt-scallion|mt-mutton|mt-barbecuesauce
+690,سیب زمینی و بادام زمینی,mt-liquidoil|mt-peanut|mt-coriander|mt-water|mt-corianderseeds|mt-salt|mt-potato|mt-blackcumin
+691,پوره سیب زمینی با اسفناج,mt-blackpepper|mt-cowmilk|mt-korea|mt-salt|mt-spinach|mt-cream|mt-potato|mt-water
+692,گراتن بادمجان و مرغ,mt-korea|mt-cowmilk|mt-corianderseeds|mt-blackpepper|mt-onion|mt-chickenbreastmeat|mt-eggplant|mt-salt|mt-blackpepper|mt-mozzarellacheese|mt-whiteflour|mt-salt|mt-thyme|mt-jafari|mt-turmeric|mt-mushrooms
+693,گراتن پاستا,mt-blackpepper|mt-coriander|mt-cowmilk|mt-jafari|mt-whiteflour|mt-korea|mt-salt|mt-thyme|mt-liquidoil|mt-mushrooms|mt-salt|mt-mozzarellacheese|mt-formipasta
+694,گراتن سیب زمینی و مرغ,mt-blackpepper|mt-potato|mt-chickenbreastmeat|mt-cowmilk|mt-mushrooms|mt-salt|mt-salt|mt-onion|mt-whiteflour|mt-thyme|mt-mozzarellacheese|mt-bellpepper|mt-corianderseeds|mt-turmeric|mt-blackpepper|mt-korea
+695,گراتن گوشت و قارچ,mt-blackpepper|mt-turmeric|mt-garlic|mt-salt|mt-mincedmeat|mt-salt|mt-tomatopaste|mt-thyme|mt-scallion|mt-korea|mt-whiteflour|mt-blackpepper|mt-onion|mt-corn|mt-thyme|mt-mushrooms|mt-liquidoil|mt-cowmilk|mt-bellpepper|mt-mozzarellacheese|mt-potato
+696,پاستا مرغ و ذرت,mt-paprika|mt-water|mt-salt|mt-chickenbreastmeat|mt-mayonnaise|mt-salt|mt-liquidoil|mt-frenchsauce|mt-garlic|mt-jafari|mt-oliveoil|mt-corn|mt-pasta|mt-garlicpowder|mt-ketchup|mt-smokedsauce|mt-oreganoororegano|mt-blackpepper
+697,پاستا مرغ گریل,mt-bellpepper|mt-salt|mt-blackpepper|mt-blackpepper|mt-soysauce|mt-onion|mt-chickenbreastmeat|mt-pasta|mt-turmeric|mt-tomatopaste|mt-liquidoil|mt-garlicpowder|mt-water|mt-thyme|mt-liquidoil|mt-salt|mt-garlic|mt-salt
+698,پاستا مرغ پرتقالی,mt-salt|mt-salt|mt-blackpepper|mt-water|mt-bellpepper|mt-orangejuice|mt-pasta|mt-cream|mt-liquidoil|mt-liquidoil|mt-soysauce|mt-onion|mt-chickenbreastmeat
+699,پاستا گوشت و قارچ خامه‌ای,mt-salt|mt-nutmeg|mt-garlic|mt-thyme|mt-water|mt-cream|mt-mushrooms|mt-onion|mt-mincedmeat|mt-pasta|mt-liquidoil|mt-blackpepper|mt-salt|mt-jafari
+700,پاستا قارچ و گوشت,mt-onion|mt-liquidoil|mt-salt|mt-water|mt-basil|mt-tomatoes|mt-blackpepper|mt-tomatopaste|mt-sugar|mt-garlic|mt-liquidoil|mt-salt|mt-mincedmeat|mt-pasta|mt-mushrooms
+701,پاستا با سس قارچ و بادام زمینی,mt-onion|mt-cream|mt-thyme|mt-blackpepper|mt-peanut|mt-mushrooms|mt-chickenextract|mt-water|mt-garlic|mt-liquidoil|mt-salt|mt-whiteflour|mt-water|mt-salt|mt-mozzarellacheese|mt-pasta
+702,پاستا هویج و کرفس,mt-onion|mt-blackpepper|mt-carrot|mt-liquidoil|mt-chickenextract|mt-salt|mt-digger|mt-celery|mt-cream|mt-whiteflour|mt-garlic|mt-pasta
+703,پاستا زیتون و گوجه,mt-salt|mt-olive|mt-water|mt-liquidoil|mt-tomatopaste|mt-salt|mt-garlic|mt-tomatoes|mt-pasta|mt-liquidoil|mt-blackpepper
+704,پاستا بادمجان,mt-mozzarellacheese|mt-liquidoil|mt-blackpepper|mt-greensquash|mt-bellpepper|mt-water|mt-liquidoil|mt-tomatopaste|mt-salt|mt-salt|mt-pasta|mt-garlic|mt-eggplant
+705,پاستا گوجه و سیر,mt-cream|mt-driedtarragon|mt-liquidoil|mt-garlic|mt-onion|mt-salt|mt-thyme|mt-tomatoes|mt-blackpepper|mt-water|mt-liquidoil|mt-salt|mt-tomatopaste|mt-pasta
+706,پاستا با سس گوجه فرنگی,mt-tomatopaste|mt-blackpepper|mt-water|mt-salt|mt-redpepper|mt-pasta|mt-liquidoil|mt-vinegar|mt-sugar|mt-salt|mt-onion|mt-basil|mt-tomatoes|mt-tarragon|mt-liquidoil|mt-garlic
+707,دمی ادویه,mt-redpepper|mt-water|mt-salt|mt-liquidoil|mt-rice|mt-grahammasala|mt-spicygreenpepper|mt-garlic|mt-turmeric|mt-onion
+708,دمی تخم مرغ,mt-blackcumin|mt-push|mt-onion|mt-clove|mt-greenpepper|mt-cinnamon|mt-saffron|mt-rice|mt-corianderseeds|mt-salt|mt-liquidoil|mt-eggs
+709,دمی قارچ,mt-grahammasala|mt-garlic|mt-cuminseeds|mt-onion|mt-salt|mt-water|mt-mushrooms|mt-liquidoil|mt-rice
+710,دمی نخود سبز و هویج و زیره,mt-carrot|mt-salt|mt-peas|mt-garlic|mt-rice|mt-onion|mt-tomatoes|mt-blackcumin|mt-jafari
+711,رشته پلو با مرغ,mt-chickenbreastmeat|mt-push|mt-blackpepper|mt-cinnamon|mt-almondslice|mt-raisins|mt-onion|mt-saffron|mt-rice|mt-golab|mt-salt|mt-turmeric|mt-liquidoil|mt-ploystring
+712,زرد پلو,mt-salt|mt-water|mt-turmeric|mt-rice|mt-clove|mt-cinnamon|mt-liquidoil|mt-smellleaf
+713,قنبر پلو شیرازی با گوشت,mt-onion|mt-pomegranatepaste|mt-water|mt-breadcrumbflour|mt-rice|mt-blackpepper|mt-salt|mt-datesyrup|mt-raisins|mt-walnut|mt-turmeric|mt-mincedmeat
+714,املت پیاز,mt-eggs|mt-liquidoil|mt-onion|mt-blackpepper|mt-whiteflour|mt-salt
+715,سوپ قارچ,mt-chickenextract|mt-cowmilk|mt-whiteflour|mt-salt|mt-thyme|mt-mushrooms|mt-jafari|mt-whitepepper|mt-korea|mt-cream|mt-onion
+716,خورش میگو,mt-garlic|mt-potato|mt-blackpepper|mt-omanilemon(amani)|mt-tomatoes|mt-salt|mt-onion|mt-liquidoil|mt-indiansour|mt-water|mt-shrimp|mt-turmeric|mt-coriander
+717,قیمه بوشهری,mt-beef|mt-potato|mt-liquidoil|mt-onion|mt-blackpepper|mt-water|mt-lemonjuice|mt-salt|mt-tomatopaste|mt-cotyledons|mt-blackcumin
+718,خورش اسفناج,mt-mutton|mt-sourgrapejuice|mt-water|mt-liquidoil|mt-onion|mt-sugar|mt-spinach|mt-salt
+719,خورش گردو اسفناج,mt-turmeric|mt-walnut|mt-spinach|mt-liquidoil|mt-sourgrapejuice|mt-onion|mt-water|mt-salt|mt-pomegranatepaste|mt-mutton
+720,خورش گردو,mt-onion|mt-salt|mt-beef|mt-water|mt-turmeric|mt-liquidoil|mt-pomegranatepaste|mt-walnut
+721,واداپ,mt-water|mt-blackpepper|mt-onion|mt-Baluchi-Chicken-Spice|mt-salt|mt-chickenmeat|mt-tomatoes|mt-liquidoil
+722,آبکی یا آبکی قاتق,mt-chickenmeat|mt-water|mt-liquidoil|mt-salt|mt-Special-Vegetables|mt-garlic|mt-blackpepper|mt-sourorangejuice
+723,خورش چخرتمه یا چغرتمه,mt-water|mt-salt|mt-onion|mt-blackpepper|mt-chickenmeat|mt-tomatopaste|mt-liquidoil|mt-lemonjuice|mt-eggs
+724,خورش مالاوابیج,mt-turmeric|mt-blackpepper|mt-tomatopaste|mt-liquidoil|mt-pomegranatepaste|mt-salt|mt-water|mt-chickenbreastmeat|mt-onion
+725,سبزی فسنجان,mt-tomatoes|mt-onion|mt-eggplant|mt-Special-Vegetables|mt-blackpepper|mt-walnut|mt-garlic|mt-pomegranatepaste|mt-salt|mt-chickenmeat|mt-liquidoil|mt-water
+726,خورش کدو قرمز,mt-beef|mt-squash|mt-blackpepper|mt-salt|mt-tomatoes|mt-tomatopaste|mt-water|mt-indiansour|mt-turmeric|mt-garlic|mt-onion|mt-cotyledons|mt-sugar|mt-liquidoil
+727,خورش قیمه آلو,mt-salt|mt-sourgrapejuice|mt-plumbukhara|mt-liquidoil|mt-onion|mt-omanilemon(amani)|mt-tomatopaste|mt-water|mt-turmeric|mt-cinnamon|mt-cotyledons|mt-mutton|mt-potato
+728,خورش آلو سمنان,mt-potato|mt-salt|mt-tomatopaste|mt-blackpepper|mt-sourgrapejuice|mt-cotyledons|mt-plumbukhara|mt-onion|mt-turmeric|mt-liquidoil|mt-sugar|mt-water|mt-mutton
+729,خورش گردو با کدو,mt-pomegranatepaste|mt-beef|mt-salt|mt-turmeric|mt-blackpepper|mt-liquidoil|mt-onion|mt-water|mt-squash|mt-walnut|mt-sugar|mt-tomatopaste|mt-sourgrapejuice
+730,خورش گزر,mt-cinnamon|mt-beef|mt-turmeric|mt-carrot|mt-onion|mt-cotyledons|mt-water|mt-blackpepper|mt-saffron|mt-sourgrapejuice|mt-liquidoil|mt-sugar|mt-salt
+731,خورش آلو مسما,mt-qiesi|mt-turmeric|mt-blackpepper|mt-liquidoil|mt-onion|mt-sugar|mt-salt|mt-water|mt-tomatopaste|mt-chickenmeat
+732,خورش آلو و گردو سمنان,mt-sourgrapejuice|mt-sugar|mt-pomegranatepaste|mt-walnut|mt-liquidoil|mt-plumbukhara|mt-salt|mt-onion|mt-water|mt-beef|mt-turmeric
+733,خورش پسته دامغان,mt-liquidoil|mt-salt|mt-blackpepper|mt-sourgrapejuice|mt-turmeric|mt-korea|mt-onion|mt-beef|mt-water|mt-sugar|mt-pistachio
+734,سوتی پلو,mt-cowmilk|mt-salt|mt-rice|mt-liquidoil|mt-water|mt-walnut|mt-qiesi|mt-raisins|mt-saffron
+735,خورش قیمه سیب زمینی,mt-beef|mt-potato|mt-tomatopaste|mt-cinnamon|mt-liquidoil|mt-saffron|mt-turmeric|mt-golab|mt-cotyledons|mt-omanilemon(amani)|mt-salt|mt-blackpepper|mt-push|mt-onion
+736,سیر قلیه,mt-blackpepper|mt-turmeric|mt-garlicleaf|mt-liquidoil|mt-garlic|mt-chickenmeat|mt-salt
+737,سیرشوید,mt-garlic|mt-salt|mt-blackpepper|mt-water|mt-onion|mt-bean|mt-drieddill|mt-eggs|mt-turmeric|mt-beef|mt-liquidoil
+738,شوید قرمه,mt-greentomato(plum)|mt-salt|mt-korea|mt-chickenmeat|mt-digger|mt-water|mt-onion|mt-whiteflour|mt-liquidoil|mt-blackpepper|mt-sugar
+739,ادویه پلو,mt-onion|mt-salt|mt-chickenmeat|mt-turmeric|mt-korea|mt-korea|mt-water|mt-saffron|mt-peloispice|mt-rice|mt-blackpepper|mt-liquidoil
+740,شیرین قرمه,mt-turmeric|mt-qiesi|mt-sugar|mt-water|mt-salt|mt-raisins|mt-onion|mt-beef|mt-blackpepper|mt-liquidoil
+741,شیش انداز,mt-pomegranatepaste|mt-Paste-of-Plum|mt-turmeric|mt-water|mt-eggplant|mt-angelica|mt-liquidoil|mt-tomatopaste|mt-onion|mt-walnut|mt-salt
+742,طلا کوله غورابه,mt-walnut|mt-turmeric|mt-onion|mt-liquidoil|mt-eggs|mt-chickenmeat|mt-water|mt-sourgrapejuice|mt-salt|mt-Special-Vegetables|mt-blackpepper
+743,غوره مسما,mt-blackpepper|mt-chickenmeat|mt-onion|mt-liquidoil|mt-salt|mt-ghoreh|mt-saffron|mt-water|mt-tomatopaste
+744,گمج کباب,mt-walnut|mt-blackpepper|mt-pomegranatejuice|mt-beef|mt-Special-Vegetables|mt-salt
+745,مرغ فسنجان یا مرغ لاکو,mt-salt|mt-pomegranatepaste|mt-water|mt-turmeric|mt-blackpepper|mt-chickenmeat|mt-liquidoil|mt-walnut
+746,خورش کنگر چهارمحال بختیاری,mt-onion|mt-beef|mt-salt|mt-qaraqrut|mt-liquidoil|mt-blackpepper|mt-artichoke|mt-water|mt-turmeric
+747,خورش به آلو قزوین,mt-water|mt-turmeric|mt-liquidoil|mt-plum|mt-beef|mt-salt|mt-blackpepper|mt-onion|mt-push|mt-to|mt-golab
+748,خورش کنگر کردستان,mt-salt|mt-turmeric|mt-beef|mt-blackpepper|mt-artichoke|mt-tomatopaste|mt-liquidoil|mt-water|mt-onion
+749,خورش به آلو کرمان,mt-lemonjuice|mt-turmeric|mt-onion|mt-to|mt-plumbukhara|mt-beef|mt-water|mt-blackpepper|mt-liquidoil|mt-sugar|mt-salt
+750,خورش کدو کرمان,mt-turmeric|mt-lemon|mt-saffron|mt-salt|mt-sugar|mt-blackpepper|mt-liquidoil|mt-onion|mt-water|mt-beef|mt-greensquash
+751,ماش پتی,mt-mungbean|mt-spinach|mt-squash|mt-turmeric|mt-garlic|mt-water|mt-to|mt-sourorangejuice|mt-blackpepper|mt-salt|mt-liquidoil
+752,اناربیج,mt-mincedmeat|mt-driedmint|mt-turmeric|mt-blackpepper|mt-pomegranatepaste|mt-onion|mt-liquidoil|mt-Special-Vegetables|mt-whiteflour|mt-water|mt-walnut|mt-salt
+753,ترش تره,mt-liquidoil|mt-salt|mt-eggs|mt-blackpepper|mt-riceflour|mt-turmeric|mt-garlic|mt-sourorangejuice|mt-Special-Vegetables|mt-water
+754,عدس پلو مجلسی,mt-saffron|mt-korea|mt-onion|mt-water|mt-liquidoil|mt-raisins|mt-lentils|mt-rice|mt-mincedbeef
+755,ته بوریان,mt-turmeric|mt-whiteflour|mt-onion|mt-salt|mt-liquidoil|mt-eggs|mt-water|mt-tomatoes|mt-chickenmeat|mt-eggplant|mt-sourorangejuice|mt-blackpepper
+756,جوجه پریده,mt-liquidoil|mt-eggplant|mt-blackpepper|mt-sourgrapejuice|mt-water|mt-salt|mt-Special-Vegetables
+757,خورش آلو گیلان,mt-chickenmeat|mt-salt|mt-liquidoil|mt-water|mt-blackpepper|mt-onion|mt-turmeric|mt-sourorangejuice|mt-qiesi|mt-plumbukhara
+758,خورش غورآویج,mt-turmeric|mt-salt|mt-blackpepper|mt-ghoreh|mt-onion|mt-mincedmeat|mt-liquidoil|mt-water|mt-driedmint|mt-Special-Vegetables
+759,شوید خولی یا شوید خالی,mt-liquidoil|mt-jafari|mt-digger|mt-blackpepper|mt-coriander|mt-greentomato(plum)|mt-eggs|mt-water|mt-salt|mt-onion|mt-turmeric|mt-chickenmeat
+760,موتنجن,mt-sugar|mt-cinnamon|mt-salt|mt-liquidoil|mt-qiesi|mt-water|mt-raisins|mt-walnut|mt-chickenmeat|mt-blackpepper|mt-pomegranatepaste
+761,میرزا قاسمی,mt-salt|mt-eggplant|mt-blackpepper|mt-turmeric|mt-liquidoil|mt-garlic|mt-tomatoes|mt-eggs
+762,واویشکا,mt-liquidoil|mt-tomatoes|mt-onion|mt-turmeric|mt-mincedmeat|mt-water|mt-blackpepper|mt-salt
+763,خورش قلیه ترش,mt-beef|mt-Stewed-Spice|mt-pomegranatejuice|mt-pomegranatepaste|mt-salt|mt-potato|mt-onion|mt-turmeric|mt-blackpepper|mt-water|mt-liquidoil
+764,خورش کنگر لرستان,mt-blackpepper|mt-driedmint|mt-cotyledons|mt-artichoke|mt-turmeric|mt-salt|mt-beef|mt-water|mt-onion|mt-lemonjuice|mt-liquidoil
+765,خورش به لرستان,mt-saffron|mt-cinnamon|mt-korea|mt-liquidoil|mt-cotyledons|mt-vinegar|mt-to|mt-beef|mt-onion|mt-tomatopaste|mt-blackpepper|mt-water|mt-grapejuice|mt-salt
+766,حاج خورش,mt-potato|mt-onion|mt-garlicpowder|mt-beef|mt-blackpepper|mt-salt|mt-liquidoil|mt-water|mt-tomatopaste|mt-tomatoes|mt-turmeric|mt-whitebeans
+767,خورش کردی,mt-blackpepper|mt-torre|mt-tomatopaste|mt-water|mt-liquidoil|mt-fenugreek|mt-turmeric|mt-potato|mt-beef|mt-whitebeans|mt-salt|mt-onion|mt-tomatoes
+768,خورش ریواس,mt-turmeric|mt-onion|mt-salt|mt-water|mt-beef|mt-sugar|mt-liquidoil|mt-blackpepper|mt-jafari|mt-mint
+769,بوریتو صبحانه,mt-blackpepper|mt-lavashbread|mt-thyme|mt-salt|mt-eggs|mt-ham|mt-korea|mt-tomatoes
+770,فندق قاتق,mt-pomegranatepaste|mt-hazelnut|mt-water|mt-whiteflour|mt-salt|mt-chickenmeat|mt-liquidoil|mt-turmeric|mt-eggplant|mt-tomatopaste|mt-angelica|mt-blackpepper
+771,خورش قیمه یزدی,mt-omanilemon(amani)|mt-cinnamon|mt-pea|mt-blackpepper|mt-onion|mt-push|mt-salt|mt-liquidoil|mt-turmeric|mt-water|mt-beef
+772,فسنجان باقلا,mt-water|mt-onion|mt-liquidoil|mt-eggplant|mt-salt|mt-blackpepper|mt-walnut|mt-pomegranatepaste|mt-bean
+773,آوریز یا آبریز,mt-onion|mt-beef|mt-nardon|mt-turmeric|mt-blackpepper|mt-liquidoil|mt-salt|mt-pomegranatepaste|mt-water
+774,خورش کدو حلوایی سمنان,mt-cotyledons|mt-sourgrapejuice|mt-blackpepper|mt-cinnamon|mt-turmeric|mt-water|mt-onion|mt-liquidoil|mt-salt|mt-squash|mt-sugar|mt-beef
+775,کاتغ ماهی,mt-turmeric|mt-liquidoil|mt-water|mt-tomatopaste|mt-blackpepper|mt-garlic|mt-coriander|mt-Fish-Spice|mt-fishfillet|mt-fenugreek|mt-salt|mt-tomatoes|mt-onion
+776,خورش کرک بپرس,mt-salt|mt-nardon|mt-blackpepper|mt-tomatopaste|mt-liquidoil|mt-onion|mt-water|mt-eggplant|mt-eggs
+777,مرغ ترش گیلان,mt-chickenmeat|mt-eggs|mt-blackpepper|mt-sourorangejuice|mt-liquidoil|mt-Special-Vegetables|mt-cotyledons|mt-salt|mt-water
+778,ملا قرمه,mt-tomatoes|mt-onion|mt-turmeric|mt-sourgrapejuice|mt-liquidoil|mt-blackpepper|mt-eggs|mt-driedmint|mt-eggplant|mt-garlic|mt-water|mt-salt
+779,خورش سیب‌ زمینی,mt-salt|mt-beef|mt-walnut|mt-tomatopaste|mt-plum|mt-liquidoil|mt-turmeric|mt-scallion|mt-coriander|mt-potato|mt-korea|mt-blackpepper|mt-push|mt-water|mt-onion|mt-lemonjuice
+780,کدوی سرکه و شیره,mt-turmeric|mt-blackpepper|mt-liquidoil|mt-grapejuice|mt-greensquash|mt-vinegar|mt-beef|mt-water|mt-onion|mt-salt
+781,گوشت و نخود و اسفناج,mt-turmeric|mt-beef|mt-spinach|mt-omanilemon(amani)|mt-blackpepper|mt-salt|mt-onion|mt-pea|mt-water|mt-liquidoil
+782,ماهی شیر پز,mt-onion|mt-salt|mt-dough|mt-turmeric|mt-blackpepper|mt-liquidoil|mt-fishfillet
+783,باقالی خورش(باقالا قاتق),mt-water|mt-garlic|mt-Rashti-Beans|mt-blackpepper|mt-turmeric|mt-digger|mt-salt|mt-liquidoil|mt-eggs
+784,گوشت و نخود (نخودآب),mt-onion|mt-potato|mt-whitebeans|mt-water|mt-liquidoil|mt-salt|mt-beef|mt-pea|mt-blackpepper|mt-tomatopaste
+785,خورش لوبیا قرمز,mt-tomatoes|mt-salt|mt-onion|mt-blackpepper|mt-mincedmeat|mt-water|mt-turmeric|mt-redbeans|mt-liquidoil
+786,خورش کنگر کرمانشاه,mt-ghoreh|mt-salt|mt-artichoke|mt-beef|mt-onion|mt-water|mt-turmeric|mt-tomatopaste|mt-liquidoil|mt-blackpepper|mt-cotyledons
+787,خورش کدو حلوایی همدان,mt-squash|mt-onion|mt-blackpepper|mt-turmeric|mt-tomatopaste|mt-beef|mt-salt|mt-water|mt-liquidoil
+788,عدسی با سیب زمینی,mt-onion|mt-blackpepper|mt-salt|mt-lentils|mt-potato|mt-angelica|mt-water|mt-liquidoil|mt-turmeric
+789,بورانی پیاز,mt-salt|mt-yogurt|mt-onion|mt-coriander|mt-spicygreenpepper
+790,دنده پلو,mt-ribmeat|mt-blackcumin|mt-turmeric|mt-onion|mt-salt|mt-water|mt-liquidoil|mt-saffron|mt-rice|mt-blackpepper
+791,پاستا با سس قارچ و مرغ,mt-cowmilk|mt-salt|mt-garlic|mt-blackpepper|mt-liquidoil|mt-pasta|mt-chickenbreastmeat|mt-water|mt-mayonnaise|mt-whiteflour|mt-onion|mt-mustardsauce|mt-korea|mt-salt|mt-mushrooms|mt-cream
+792,کوفته مرغ,mt-tomatopaste|mt-plumbukhara|mt-chickenbreastmeat|mt-water|mt-salt|mt-blackpepper|mt-raisins|mt-chickpeaflour|mt-salt|mt-blackpepper|mt-eggs|mt-onion|mt-walnut|mt-turmeric|mt-hotonions|mt-cinnamon|mt-jafari|mt-onion|mt-liquidoil|mt-turmeric
+793,شامی کباب بروجردی,mt-digger|mt-fenugreek|mt-onion|mt-turmeric|mt-jafari|mt-chickpeaflour|mt-blackpepper|mt-mincedmeat|mt-liquidoil|mt-salt|mt-garlic|mt-torre|mt-coriander|mt-eggs
+794,چای بهارنارنج,mt-blacktea|mt-honey|mt-Orange-Spring|mt-water
+795,دلمه برگ مو ترکیه,mt-driedmint|mt-chilipepper|mt-tomatoes|mt-ghoreh|mt-almondslice|mt-hairleaf|mt-drieddill|mt-raisins|mt-blackpepper|mt-clove|mt-liquidoil|mt-onion|mt-driedtomato|mt-cinnamon|mt-sugar|mt-nutmeg|mt-salt|mt-lemonjuice
+796,دلمه برگ مو ایران,mt-mincedmeat|mt-hairleaf|mt-ghoreh|mt-redpepper|mt-driedtomato|mt-onion|mt-liquidoil|mt-onion|mt-eggplantsalad|mt-chilipepper|mt-rice|mt-salt|mt-cotyledons|mt-turmeric|mt-water|mt-blackpepper|mt-garlic
+797,قیمه به,mt-cinnamon|mt-cotyledons|mt-saffron|mt-to|mt-turmeric|mt-liquidoil|mt-lemonjuice|mt-sugar|mt-water|mt-beef|mt-salt|mt-blackpepper|mt-onion
+798,خورش آلوچه همدان,mt-onion|mt-sourgrapejuice|mt-jafari|mt-blackpepper|mt-greentomato(plum)|mt-salt|mt-water|mt-turmeric|mt-mint|mt-beef|mt-liquidoil
+799,شش انداز,mt-onion|mt-raisins|mt-dates|mt-grapejuice|mt-eggs|mt-liquidoil|mt-salt
+800,فسنجان ماهی,mt-liquidoil|mt-water|mt-pomegranatepaste|mt-salt|mt-fishfillet|mt-walnut
+801,آش انار,mt-breadcrumbflour|mt-mincedmeat|mt-liquidoil|mt-vegetableash|mt-turmeric|mt-onion|mt-halfgrainrice|mt-blackpepper|mt-liquidoil|mt-onion|mt-water|mt-pomegranatejuice|mt-salt|mt-cotyledons|mt-salt|mt-turmeric|mt-pomegranate|mt-blackpepper
+802,ماهی شکم پر,mt-breadcrumbflour|mt-jafari|mt-walnut|mt-salt|mt-torre|mt-blackpepper|mt-salmon|mt-tarragon|mt-korea
+803,سیرداغ,mt-salt|mt-turmeric|mt-garlic|mt-liquidoil
+804,نعناداغ,mt-liquidoil|mt-driedmint|mt-turmeric
+805,آش ترش گیلانی,mt-salt|mt-liquidoil|mt-garlic|mt-pomegranatepaste|mt-blackpepper|mt-lentils|mt-bean|mt-turmeric|mt-vegetableash|mt-pea|mt-water|mt-halfgrainrice|mt-pintobeans
+806,آش زرشک خراسان شمالی,mt-angelica|mt-barberry|mt-salt|mt-turmeric|mt-barberryjuice|mt-cotyledons|mt-blackpepper|mt-vegetableash|mt-onion|mt-rice|mt-liquidoil|mt-water
+807,آش شله ماشکی,mt-sesame|mt-blackcumin|mt-onion|mt-salt|mt-blackpepper|mt-turmeric|mt-mutton|mt-liquidoil|mt-mungbean|mt-cinnamon|mt-rice
+808,آش عدس و بلغور,mt-wheatbulgur|mt-blackpepper|mt-driedmint|mt-liquidoil|mt-water|mt-potato|mt-meatextract|mt-lentils|mt-onion|mt-salt|mt-turmeric
+809,آش ماست آذربایجان شرقی,mt-liquidoil|mt-blackpepper|mt-salt|mt-whey|mt-spinach|mt-pea|mt-turmeric|mt-pintobeans|mt-driedmint|mt-onion|mt-water|mt-wheatbulgur
+810,آش هویج و بلغور,mt-mincedmeat|mt-pea|mt-water|mt-blackpepper|mt-whey|mt-carrot|mt-turmeric|mt-salt|mt-onion|mt-groats
+811,آش اسفناج و گشنیز,mt-water|mt-lentils|mt-liquidoil|mt-salt|mt-rice|mt-aromaticherbs|mt-onion|mt-chickenextract
+812,آش کلم برگ,mt-salt|mt-pintobeans|mt-whey|mt-whitecabbage|mt-rice|mt-liquidoil|mt-water|mt-carrot|mt-blackpepper|mt-vegetableash|mt-wheatbulgur|mt-turmeric|mt-garlic|mt-driedmint|mt-lentils|mt-onion|mt-pea
+813,آش میوه,mt-walnut|mt-redpepper|mt-gravy.|mt-blackpepper|mt-cherries|mt-onion|mt-pea|mt-vegetableash|mt-lentils|mt-liquidoil|mt-grapejuice|mt-apricotleaf|mt-whitecabbage|mt-wheatbulgur|mt-turmeric|mt-rice|mt-driedmint|mt-applecidervinegar|mt-water|mt-salt|mt-plum
+814,دیشلیق آشی (آش دندونی),mt-salt|mt-walnut|mt-korea|mt-wheat|mt-onion|mt-pistachioslice|mt-pea|mt-water|mt-almondslice|mt-raisins|mt-liquidoil|mt-cinnamon
+815,آش جعفری و گوجه فرنگی,mt-spicygreenpepper|mt-groats|mt-redbeans|mt-rice|mt-water|mt-tomatopaste|mt-gravy.|mt-jafari|mt-lemon|mt-torre|mt-liquidoil|mt-gravy.|mt-redpepper|mt-onion|mt-tomatoes|mt-turmeric|mt-salt
+816,آش دوغ ارومیه,mt-cabbage|mt-dough|mt-whiteflour|mt-vegetableash|mt-spicygreenpepper|mt-eggs|mt-salt|mt-water|mt-pea|mt-redpepper|mt-groats
+817,یارما شورباسی,mt-liquidoil|mt-tomatopaste|mt-redbeans|mt-onion|mt-greenbeans|mt-driedtomato|mt-salt|mt-water|mt-potato|mt-groats|mt-aromaticherbs|mt-blackpepper|mt-to|mt-eggplant|mt-turmeric|mt-okra|mt-ghoreh|mt-rice
+818,آش شولی اصفهان,mt-applecidervinegar|mt-salt|mt-driedmint|mt-water|mt-onion|mt-vegetableash|mt-turmeric|mt-whiteflour|mt-liquidoil|mt-lentils
+819,آش لعابی,mt-turmeric|mt-onion|mt-wheatbulgur|mt-water|mt-salt|mt-beef|mt-blackpepper|mt-liquidoil|mt-whitebeans
+820,آماج اسفناج,mt-squash|mt-salt|mt-spinach|mt-whiteflour|mt-water|mt-blackpepper|mt-turmeric
+821,آماج کدو,mt-squash|mt-digger|mt-water|mt-salt|mt-torre|mt-whiteflour|mt-coriander|mt-blackpepper|mt-jafari|mt-turmeric
+822,شوروا یا شوربا اصفهان,mt-mincedmeat|mt-spinach|mt-mungbean|mt-turmeric|mt-blackpepper|mt-salt|mt-liquidoil|mt-water|mt-halfgrainrice|mt-onion
+823,آش گوشت بوشهری,mt-salt|mt-redbeans|mt-turmeric|mt-liquidoil|mt-beef|mt-water|mt-onion|mt-vegetableash|mt-blackpepper|mt-rice
+824,شله گندمی,mt-fishfillet|mt-turmeric|mt-liquidoil|mt-salt|mt-garlic|mt-wheatbulgur|mt-vegetableash|mt-onion|mt-water|mt-blackpepper|mt-omanilemon(amani)
+825,قلیه دزفولی,mt-indiansour|mt-plum|mt-salt|mt-turmeric|mt-pomegranatepaste|mt-garlic|mt-cowpeabeans|mt-rice|mt-driedmint|mt-wheatbulgur|mt-beef|mt-blackpepper|mt-onion|mt-water|mt-liquidoil|mt-pea
+826,آش ترش زنجان,mt-lentils|mt-apricotleaf|mt-blackpepper|mt-onion|mt-turnip|mt-spinach|mt-turmeric|mt-salt|mt-grapejuice|mt-carrot|mt-mincedmeat|mt-redbeetroot|mt-vinegar|mt-water|mt-liquidoil|mt-potato
+827,آش وگره,mt-turmeric|mt-cowpeabeans|mt-lentils|mt-blackpepper|mt-onion|mt-vegetableash|mt-whiteflour|mt-water|mt-liquidoil|mt-salt
+828,فرنچ تست,mt-toast|mt-cinnamon|mt-essentialoil|mt-salt|mt-sugar|mt-korea|mt-eggs|mt-fullfatcow'smilk|mt-liquidoil
+829,آش شلغم,mt-salt|mt-whiteflour|mt-mungbean|mt-turnip|mt-water|mt-turmeric|mt-Special-Vegetables|mt-onion|mt-liquidoil
+830,کشمش پلو قزوین,mt-turmeric|mt-liquidoil|mt-onion|mt-raisins|mt-blackpepper|mt-rice|mt-water|mt-beef|mt-salt|mt-cotyledons
+831,آش عباسعلی,mt-push|mt-wheat|mt-liquidoil|mt-redbeans|mt-lentils|mt-kermanshahioil|mt-blackpepper|mt-salt|mt-smellleaf|mt-pea|mt-cinnamon|mt-saffron|mt-mutton|mt-turmeric|mt-onion|mt-driedmint|mt-water|mt-pintobeans|mt-halfgrainrice|mt-redpepper
+832,آش ترش یزد,mt-onion|mt-turmeric|mt-blackpepper|mt-halfgrainrice|mt-driedmint|mt-liquidoil|mt-water|mt-salt|mt-lentils|mt-cotyledons|mt-White-Beetroot
+833,آش مستوبه,mt-turmeric|mt-water|mt-salt|mt-spinach|mt-dough|mt-rice
+834,آش جوشواره خراسان شمالی,mt-blackpepper|mt-spinach|mt-onion|mt-lentils|mt-water|mt-mincedmeat|mt-whiteflour|mt-salt|mt-turmeric|mt-liquidoil|mt-driedmint
+835,آش بَنِه,mt-water|mt-halfgrainrice|mt-turmeric|mt-salt|mt-onion|mt-pomegranatepaste|mt-liquidoil|mt-blackpepper|mt-Mastics
+836,آش دوغ فارس,mt-water|mt-blackpepper|mt-fleshneck|mt-liquidoil|mt-driedmint|mt-vegetableash|mt-onion|mt-pea|mt-rice|mt-salt|mt-turmeric|mt-dough
+837,آش کارده فارس,mt-blackpepper|mt-rice|mt-water|mt-salt|mt-water|mt-cardeh(cardinorcoward)|mt-onion|mt-whiteflour|mt-liquidoil|mt-turmeric
+838,آش ماست فارس,mt-fleshneck|mt-onion|mt-digger|mt-rice|mt-blackpepper|mt-salt|mt-yogurt|mt-tarragon|mt-smellleaf|mt-water|mt-turmeric|mt-cotyledons
+839,آش دندان کَشَه,mt-onion|mt-liquidoil|mt-wheat|mt-blackpepper|mt-pea|mt-salt|mt-gravy.|mt-lentils|mt-water|mt-mutton|mt-turmeric|mt-mungbean|mt-whitebeans
+840,آش دوغ قزوین,mt-rice|mt-yogurtabstract|mt-garlic|mt-water|mt-pintobeans|mt-turmeric|mt-liquidoil|mt-pea|mt-salt|mt-blackpepper|mt-peeledoats|mt-driedmint|mt-mutton|mt-vegetableash|mt-dough|mt-onion
+841,آش ماش پیازو,mt-water|mt-redbeans|mt-turmeric|mt-lentils|mt-cowpeabeans|mt-liquidoil|mt-onion|mt-mutton|mt-blackpepper|mt-salt|mt-cinnamon|mt-rice|mt-mungbean
+842,آش پرپوله,mt-whey|mt-water|mt-drysatureja|mt-liquidoil|mt-saffron|mt-salt|mt-garlic|mt-stringash|mt-lentils|mt-turmeric|mt-blackpepper
+843,آش اوماج آذربایجان شرقی,mt-potato|mt-aromaticherbs|mt-salt|mt-water|mt-waterpen|mt-lentils|mt-whiteflour|mt-turmeric|mt-salt|mt-onion|mt-blackpepper|mt-onion
+844,آش اسفندی,mt-yellowbakala|mt-liquidoil|mt-salt|mt-garlic|mt-sugar|mt-blackpepper|mt-water|mt-wheatbulgur|mt-apricotleaf|mt-applecidervinegar|mt-mungbean|mt-torre|mt-tablet|mt-pintobeans|mt-wheat|mt-rice|mt-pea|mt-gravy.|mt-walnut|mt-onion|mt-cowpeabeans|mt-whitebeans|mt-turmeric|mt-lentils
+845,آش بلغور قم,mt-walnut|mt-salt|mt-pen|mt-redbeans|mt-water|mt-wheatbulgur|mt-liquidoil|mt-pintobeans|mt-blackpepper
+846,آش ترخینه دوغ,mt-mutton|mt-salt|mt-liquidoil|mt-dough|mt-water|mt-blackcumin|mt-wheatbulgur|mt-onion|mt-turmeric
+847,آش ترخینه شیر,mt-scallion|mt-cowmilk|mt-lentils|mt-water|mt-liquidoil|mt-wheatbulgur
+848,آش ترخینه نار,mt-water|mt-vegetableash|mt-pea|mt-salt|mt-redbeetroot|mt-onion|mt-nardon|mt-liquidoil|mt-pintobeans|mt-blackpepper|mt-tarkhineh
+849,آش دونک,mt-blackpepper|mt-walnut|mt-onion|mt-redbeans|mt-salt|mt-water|mt-wheatbulgur|mt-turmeric
+850,آش ماش قم,mt-wheatbulgur|mt-cowpeabeans|mt-water|mt-pomegranatepaste|mt-salt|mt-mungbean|mt-turmeric|mt-rice|mt-onion|mt-spinach|mt-liquidoil
+851,کشک دوغ,mt-water|mt-whey|mt-liquidoil|mt-onion|mt-salt|mt-garlic|mt-turmeric|mt-driedmint|mt-walnut
+852,ترش آبک,mt-turmeric|mt-redbeans|mt-Sour-Leaf|mt-onion|mt-walnut|mt-liquidoil|mt-water|mt-salt
+853,آش ماست کردستان,mt-driedmint|mt-rice|mt-salt|mt-water|mt-yogurt|mt-liquidoil
+854,آش ترخینه کردستان,mt-tarkhineh|mt-driedmint|mt-water|mt-pea|mt-liquidoil|mt-salt
+855,کوکو سه رنگ,mt-mincedmeat|mt-water|mt-liquidoil|mt-onion|mt-blackpepper|mt-torre|mt-potato|mt-eggs|mt-salt|mt-saffron
+856,آش دانه کولانه,mt-drysatureja|mt-onion|mt-liquidoil|mt-blackpepper|mt-breadcrumbflour|mt-salt|mt-driedmint|mt-liquidoil|mt-lentils|mt-turmeric|mt-pea|mt-wheatbulgur|mt-turmeric|mt-salt|mt-onion|mt-redbeans|mt-mincedmeat|mt-blackpepper|mt-water
+857,آش کشک و بادمجان,mt-turmeric|mt-pea|mt-eggplant|mt-liquidoil|mt-driedmint|mt-redbeans|mt-lentils|mt-salt|mt-garlic|mt-onion|mt-mutton|mt-blackpepper|mt-whey|mt-water|mt-water|mt-rice|mt-cinnamon|mt-liquidoil
+858,آش سنگک,mt-redbeans|mt-wheatbulgur|mt-water|mt-turmeric|mt-scallion|mt-walnut|mt-salt
+859,آش شولی کرمان,mt-coriander|mt-dillseed|mt-garlic|mt-driedmint|mt-water|mt-turmeric|mt-driedtarragon|mt-vegetableash|mt-liquidoil|mt-qaraqrut|mt-blackpepper|mt-whitewholewheatflour|mt-salt
+860,آش قلم,mt-water|mt-onion|mt-salt|mt-redbeans|mt-liquidoil|mt-pen|mt-blackpepper|mt-turmeric|mt-nigellasativa|mt-lentils|mt-mutton|mt-wheatbulgur|mt-blackcumin|mt-pea
+861,آش دوکله‌ای,mt-water|mt-salt|mt-Leg|mt-liquidoil|mt-pea|mt-rice|mt-dough|mt-Special-Vegetables
+862,آش کارده کهگلویه و بویراحمد,mt-salt|mt-wheatbulgur|mt-dough|mt-water|mt-rice|mt-cardeh(cardinorcoward)
+863,آش اوناش,mt-beef|mt-driedmint|mt-pintobeans|mt-salt|mt-tomatopaste|mt-liquidoil|mt-onion|mt-pea|mt-garlic|mt-blackpepper|mt-water|mt-stringash
+864,آش ترش گلستان,mt-vegetableash|mt-blackpepper|mt-rice|mt-driedmint|mt-water|mt-garlic|mt-pomegranatepaste|mt-liquidoil|mt-salt|mt-turmeric|mt-onion
+865,آش دوغ شوربا گلستان,mt-water|mt-greensquash|mt-spinach|mt-garlic|mt-blackpepper|mt-coriander|mt-squash|mt-salt|mt-dough|mt-bean|mt-rice
+866,آش کشک گلستان,mt-onion|mt-turmeric|mt-pea|mt-liquidoil|mt-water|mt-salt|mt-pintobeans|mt-lentils|mt-rice|mt-blackpepper|mt-garlic|mt-whey|mt-vegetableash|mt-whitebeans
+867,آش ترش گیلان,mt-water|mt-liquidoil|mt-garlic|mt-blackpepper|mt-Special-Vegetables|mt-salt|mt-rice|mt-pea|mt-sourorangejuice|mt-Rashti-Beans
+868,خالو آبه (آش گوجه‌سبز),mt-Special-Vegetables|mt-water|mt-riceflour|mt-salt|mt-greentomato(plum)|mt-eggs|mt-sugar
+869,آش بادمجان,mt-turmeric|mt-water|mt-whey|mt-eggplant|mt-wheatbulgur|mt-cotyledons|mt-liquidoil|mt-driedmint|mt-onion|mt-garlic|mt-rice|mt-blackpepper|mt-salt
+870,آش آلوچه مرکزی,mt-salt|mt-greentomato(plum)|mt-onion|mt-rice|mt-driedmint|mt-vegetableash|mt-blackpepper|mt-liquidoil|mt-turmeric|mt-cotyledons|mt-water
+871,آش آلو,mt-water|mt-blackpepper|mt-onion|mt-stringash|mt-turmeric|mt-salt|mt-pea|mt-plumbukhara|mt-pintobeans|mt-tomatopaste|mt-liquidoil
+872,آش برنج مرکزی,mt-potato|mt-vegetableash|mt-onion|mt-blackpepper|mt-turmeric|mt-driedmint|mt-cotyledons|mt-rice|mt-liquidoil|mt-water|mt-carrot|mt-mutton|mt-salt
+873,آش بلغور مرکزی,mt-pea|mt-salt|mt-lentils|mt-water|mt-onion|mt-redbeetroot|mt-turmeric|mt-wheatbulgur|mt-vegetableash|mt-pintobeans|mt-liquidoil|mt-driedmint|mt-blackpepper
+874,آش بی بی سه شنبه,mt-pea|mt-wheatbulgur|mt-lentils|mt-liquidoil|mt-vegetableash|mt-blackpepper|mt-mutton|mt-onion|mt-salt|mt-pintobeans|mt-driedmint|mt-water|mt-turmeric
+875,آش جو (ترخینه جو) مرکزی,mt-onion|mt-Special-Vegetables|mt-peeledoats|mt-lentils|mt-blackpepper|mt-pintobeans|mt-liquidoil|mt-whey|mt-turmeric|mt-salt|mt-pea|mt-driedmint
+876,آش حلیم,mt-wheatbulgur|mt-salt|mt-mutton|mt-water|mt-pea|mt-turmeric|mt-liquidoil|mt-pintobeans|mt-blackpepper|mt-lentils|mt-onion
+877,آش دوغ مرکزی,mt-pea|mt-water|mt-salt|mt-rice|mt-vegetableash|mt-onion|mt-driedmint|mt-dough|mt-turmeric|mt-blackpepper|mt-liquidoil|mt-mutton
+878,آش شیره با کدو,mt-onion|mt-wheatbulgur|mt-whitebeans|mt-water|mt-korea|mt-squash|mt-cinnamon|mt-gravy.|mt-salt|mt-grapejuice
+879,آش برنج همدان,mt-salt|mt-walnut|mt-lentils|mt-vegetableash|mt-mutton|mt-blackpepper|mt-onion|mt-rice|mt-water|mt-yogurt|mt-turmeric
+880,آش دوغ همدان,mt-dough|mt-salt|mt-vegetableash|mt-pea|mt-eggs|mt-yogurt|mt-rice|mt-water
+881,آش کاچی,mt-wheatbulgur|mt-yogurt|mt-korea|mt-water|mt-salt|mt-garlic|mt-driedmint
+882,آش کدو همدان,mt-squash|mt-rice|mt-onion|mt-blackpepper|mt-water|mt-lentils|mt-korea|mt-salt|mt-lemonjuice|mt-sugar|mt-liquidoil|mt-turmeric|mt-korea
+883,آش گندم یزد,mt-liquidoil|mt-onion|mt-salt|mt-beef|mt-Spice-Ash|mt-lentils|mt-redbeans|mt-blackpepper|mt-Tail|mt-mungbean|mt-turmeric|mt-water|mt-wheat
+884,آش ماش یزد,mt-water|mt-salt|mt-redbeans|mt-cinnamon|mt-driedmint|mt-rice|mt-digger|mt-mungbean|mt-torre|mt-onion|mt-liquidoil|mt-mutton
+885,خوراک مرغ صربی با سس گوجه و شوید,mt-redpepper|mt-thyme|mt-korea|mt-blackpepper|mt-drieddill|mt-liquidoil|mt-blackpepper|mt-tomatoes|mt-garlicpowder|mt-gingerpowder|mt-eggs|mt-garlic|mt-currypowder|mt-chickenbreastmeat|mt-salt|mt-nutmeg|mt-salt|mt-whiteflour
+886,آش دوغ اردبیل,mt-mincedmeat|mt-salt|mt-driedmint|mt-onion|mt-dough|mt-pea|mt-water|mt-rice|mt-garlic|mt-liquidoil|mt-coriander|mt-garlicleaf|mt-torre|mt-eggs
+887,آش گیلدیک,mt-driedmint|mt-sourgrapejuice|mt-mincedmeat|mt-rice|mt-dates|mt-blackpepper|mt-waterpen|mt-qiesi|mt-salt|mt-onion|mt-plum|mt-whitebeans|mt-sugar|mt-turmeric|mt-greentomato(plum)|mt-nastaranorgildick|mt-pea|mt-walnut
+888,آش رشته تهران,mt-whey|mt-whiteflour|mt-stringash|mt-driedmint|mt-pea|mt-whitebeans|mt-lentils|mt-pintobeans|mt-liquidoil|mt-blackpepper|mt-salt|mt-water|mt-garlic|mt-vegetableash|mt-turmeric|mt-onion
+889,آردوله بونسور,mt-bensur|mt-blackpepper|mt-onion|mt-dough|mt-salt|mt-rice|mt-water|mt-whiteflour|mt-turmeric|mt-liquidoil
+890,آش دوغ چهارمحال بختیاری,mt-whitebeans|mt-rice|mt-driedmint|mt-turmeric|mt-lentils|mt-water|mt-salt|mt-vegetableash|mt-liquidoil|mt-dough|mt-peeledoats
+891,آش کاردین,mt-water|mt-driedmint|mt-groats|mt-cardeh(cardinorcoward)|mt-rice
+892,آش کدو چهارمحال بختیاری,mt-cotyledons|mt-rice|mt-water|mt-blackpepper|mt-squash|mt-liquidoil|mt-salt|mt-driedmint|mt-lentils|mt-onion|mt-turmeric
+893,آش کشک چهارمحال بختیاری,mt-liquidoil|mt-blackpepper|mt-onion|mt-vegetableash|mt-water|mt-whey|mt-pea|mt-rice|mt-turmeric|mt-driedmint|mt-whitebeans|mt-salt
+894,اوگندی,mt-water|mt-whiteflour|mt-blackpepper|mt-onion|mt-mountaineer|mt-qaraqrut|mt-turmeric|mt-lentils|mt-salt|mt-liquidoil
+895,دوا کشک,mt-rice|mt-water|mt-blackpepper|mt-whey|mt-liquidoil|mt-onion|mt-salt
+896,آش بلغور شیر,mt-groats|mt-liquidoil|mt-appletree|mt-salt|mt-turnip|mt-onion|mt-turmeric|mt-chickenmeat|mt-lentils|mt-water|mt-blackpepper
+897,آش بلغور خراسان رضوی,mt-waterpen|mt-wheatbulgur|mt-liquidoil|mt-onion|mt-turmeric|mt-mungbean|mt-pintobeans|mt-blackpepper|mt-water|mt-pea|mt-salt
+898,آش جوشواره خراسان رضوی,mt-liquidoil|mt-blackpepper|mt-Cannabis|mt-onion|mt-water|mt-pea|mt-salt|mt-garlic|mt-pintobeans|mt-whiteflour|mt-turmeric|mt-walnut
+899,آش کشک و بادمجان خراسان رضوی,mt-vegetableash|mt-cumin|mt-eggplant|mt-onion|mt-liquidoil|mt-whey|mt-salt|mt-pintobeans|mt-garlic|mt-driedmint|mt-pea|mt-blackpepper|mt-onion|mt-salt|mt-beef|mt-water|mt-blackpepper|mt-tomatopaste|mt-turmeric|mt-turmeric|mt-stringash|mt-water|mt-lentils|mt-liquidoil|mt-cotyledons|mt-waterpen
+900,شله مشهدی,mt-onion|mt-turmeric|mt-onion|mt-mungbean|mt-halfgrainrice|mt-water|mt-turmeric|mt-cotyledons|mt-liquidoil|mt-salt|mt-pea|mt-blackpepper|mt-cinnamon|mt-groats|mt-blackpepper|mt-salt|mt-mutton|mt-smellleaf|mt-tomatopaste|mt-pintobeans|mt-liquidoil|mt-beef
+901,آش قُلقُل شوشتری,mt-pea|mt-beef|mt-wheat|mt-liquidoil|mt-lentils|mt-yellowbakala|mt-onion|mt-halfgrainrice|mt-water
+902,آش بلغور کرمان,mt-liquidoil|mt-whitebeans|mt-mungbean|mt-blackpepper|mt-salt|mt-lentils|mt-pea|mt-blackcumin|mt-bean|mt-cinnamon|mt-waterpen|mt-water|mt-wheatbulgur|mt-onion|mt-turmeric
+903,آش زرشک مازندران,mt-barberryjuice|mt-salt|mt-halfgrainrice
+904,آش گوجه فرنگی,mt-salt|mt-mincedmeat|mt-tomatoes|mt-liquidoil|mt-turmeric|mt-vegetableash|mt-blackpepper|mt-onion|mt-rice|mt-water|mt-cotyledons
+905,آش تره کوهی,mt-water|mt-redbeans|mt-garlic|mt-garlicleaf|mt-onion|mt-pintobeans|mt-dough|mt-driedmint|mt-salt|mt-mountaineer|mt-liquidoil|mt-lentils|mt-stringash|mt-pea|mt-blackpepper|mt-turmeric
+906,آش جو همدان,mt-walnut|mt-cowpeabeans|mt-lentils|mt-blackpepper|mt-beef|mt-vegetableash|mt-water|mt-whey|mt-salt|mt-garlic|mt-turmeric|mt-liquidoil|mt-pea|mt-peeledoats|mt-driedmint|mt-onion
+907,او جیزک,mt-Spice-Wrench|mt-eggs|mt-onion|mt-water|mt-potato|mt-blackpepper|mt-turmeric|mt-salt|mt-Animal-Oil|mt-tomatoes
+908,برانی کلم قمری,mt-whey|mt-cotyledons|mt-blackpepper|mt-groats|mt-driedmint|mt-lunarcabbage|mt-rice|mt-onion|mt-Special-Vegetables|mt-tomatopaste|mt-liquidoil|mt-turmeric|mt-salt|mt-water
+909,پودینگ نارگیلی,mt-push|mt-coconutmilk|mt-cornstarch|mt-korea|mt-coconutpowder|mt-whiteflour|mt-golab|mt-sugar
+910,ماش قمری,mt-liquidoil|mt-lunarcabbage|mt-blackpepper|mt-rice|mt-beef|mt-Special-Vegetables|mt-mungbean|mt-salt|mt-onion|mt-water
+911,گوشت و عدس,mt-onion|mt-beef|mt-water|mt-rice|mt-salt|mt-liquidoil|mt-blackpepper|mt-lentils|mt-turmeric|mt-potato
+912,گوشت و لوبیا,mt-beef|mt-onion|mt-tomatopaste|mt-salt|mt-water|mt-blackpepper|mt-rice|mt-turmeric|mt-Special-Vegetables|mt-potato|mt-whitebeans
+913,یخمه تُرُش,mt-turmeric|mt-beef|mt-to|mt-blackpepper|mt-plum|mt-onion|mt-rice|mt-salt|mt-water
+914,قلیه سیب زمینی,mt-mungbean|mt-cinnamon|mt-water|mt-salt|mt-onion|mt-redbeans|mt-halfgrainrice|mt-redpepper|mt-liquidoil|mt-potato
+915,آش برگ مو,mt-gravy.|mt-turmeric|mt-pea|mt-liquidoil|mt-water|mt-blackpepper|mt-groats|mt-beef|mt-onion|mt-hairleaf|mt-salt
+916,کُلُمبا,mt-wheat|mt-fishfillet|mt-blackpepper|mt-salt|mt-onion|mt-paprika|mt-turmeric|mt-liquidoil|mt-garlic|mt-water
+917,آش غُلور,mt-pintobeans|mt-pea|mt-wheatbulgur|mt-onion|mt-water|mt-tomatopaste|mt-blackpepper|mt-liquidoil|mt-turmeric|mt-salt|mt-beef
+918,خشیل,mt-whiteflour|mt-cowmilk|mt-water|mt-korea|mt-wheatbulgur|mt-grapejuice
+919,آش دنیک,mt-turmeric|mt-onion|mt-redbeans|mt-pintobeans|mt-beef|mt-onion|mt-blackpepper|mt-water|mt-cotyledons|mt-liquidoil|mt-water|mt-blackpepper|mt-salt|mt-salt|mt-turmeric|mt-wheat|mt-pea|mt-tomatopaste|mt-liquidoil
+920,آش پَتلِه,mt-turmeric|mt-vegetableash|mt-lentils|mt-blackpepper|mt-whey|mt-salt|mt-redbeans|mt-pea|mt-rice|mt-water|mt-peeledoats|mt-pintobeans
+921,آش غورابه,mt-vegetableash|mt-salt|mt-turmeric|mt-liquidoil|mt-onion|mt-blackpepper|mt-garlic|mt-water|mt-mutton|mt-wheatbulgur|mt-garlic|mt-cotyledons|mt-applecidervinegar|mt-driedmint
+922,آش ماش لرستان,mt-pintobeans|mt-gravy.|mt-turmeric|mt-salt|mt-lentils|mt-onion|mt-saffron|mt-driedmint|mt-rice|mt-blackpepper|mt-water|mt-mungbean|mt-liquidoil|mt-whey
+923,یرتیخلی,mt-cotyledons|mt-gravy.|mt-onion|mt-whitecabbage|mt-tomatopaste|mt-blackpepper|mt-liquidoil|mt-driedparsley|mt-rice|mt-water|mt-sumac|mt-sugar|mt-salt|mt-driedmint|mt-turmeric
+924,قَره ماش شورباسی,mt-water|mt-driedtomato|mt-rice|mt-turmeric|mt-potato|mt-salt|mt-tomatopaste|mt-redpepper|mt-mungbean|mt-onion|mt-liquidoil|mt-gravy.|mt-pintobeans
+925,آش قلیه خراسان شمالی,mt-salt|mt-water|mt-blackpepper|mt-whey|mt-redbeans|mt-liquidoil|mt-turmeric|mt-tomatopaste|mt-sweetyogurt|mt-lentils|mt-stringash|mt-mincedmeat|mt-onion
+926,آش ترخینه کرمانشاه,mt-salt|mt-turmeric|mt-onion|mt-water|mt-onion|mt-liquidoil|mt-tarkhineh
+927,آش شله قلمکار,mt-liquidoil|mt-pea|mt-water|mt-turmeric|mt-blackpepper|mt-redbeans|mt-pintobeans|mt-rice|mt-fleshneck|mt-onion|mt-driedmint|mt-vegetableash|mt-salt|mt-cowpeabeans|mt-whitebeans
+928,آش کدو حلوایی,mt-korea|mt-rice|mt-cowmilk|mt-cinnamon|mt-sugar|mt-squash|mt-water
+929,آش عدس بلغور کردستان,mt-water|mt-groats|mt-salt|mt-lentils|mt-turmeric|mt-liquidoil|mt-onion
+930,آش کشکینه,mt-water|mt-onion|mt-oreganoororegano|mt-turmeric|mt-lentils|mt-driedmint|mt-tarkhineh|mt-liquidoil
+931,شله عدسی,mt-salt|mt-lentils|mt-mountaingarlic|mt-rice|mt-mountaineer|mt-onion|mt-liquidoil|mt-water
+932,سیربیج,mt-garlic|mt-whitesheepliver|mt-Choobuch-Sabzi|mt-tomatoes|mt-salt|mt-Tail|mt-redpepper
+933,آبگوشت عدس و بادمجان,mt-salt|mt-water|mt-sourgrapejuice|mt-onion|mt-lentils|mt-beef|mt-turmeric|mt-liquidoil|mt-eggplant|mt-blackpepper
+934,آبگوشت و گوشت کوفته یزدی (آبگوشت دوپیازه),mt-mutton|mt-potato|mt-pea|mt-blackpepper|mt-onion|mt-cinnamon|mt-salt|mt-water|mt-turmeric
+935,ساج ایچی,mt-blackpepper|mt-korea|mt-turmeric|mt-salt|mt-onion|mt-yogurt|mt-beef
+936,بربسیل,mt-torre|mt-liquidoil|mt-cardeh(cardinorcoward)|mt-cotyledons|mt-turmeric|mt-water|mt-onion|mt-fullfatyogurt|mt-eggs|mt-mutton|mt-salt
+937,آبگوشت آرد و آوه,mt-onion|mt-blackpepper|mt-turmeric|mt-salt|mt-beef|mt-whiteflour|mt-Spice-Wrench|mt-liquidoil|mt-water
+938,آش امام,mt-wheatbulgur|mt-salt|mt-fleshneck|mt-qiesi|mt-blackpepper|mt-bean|mt-dates|mt-saffron|mt-pea|mt-sugar|mt-water|mt-almondslice
